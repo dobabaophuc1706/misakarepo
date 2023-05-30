@@ -37,6 +37,33 @@
             ],
             "PackageID": "com.dobabaophuc.lsuipikachu"
         },
+	{
+            "Name": "LS UI Sharingan",
+            "Description": "Change Flash & Camera icon",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [
+                    {
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "LS UI",
+            "Caption": "Change Flash & Camera icon",
+            "Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan.mp4"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
+                  "Description": "Change Flash & Camera icon"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.lsuisharingan"
+        },
 		
 		
     ]
