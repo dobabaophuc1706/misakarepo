@@ -116,7 +116,7 @@
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcentermodios16.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcentermod.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
@@ -126,6 +126,34 @@
             ],
             "PackageID": "com.dobabaophuc.controlcentermodios16"
         },
-		
+		{
+            "Name": "Control Center Mod (ios 15)",
+            "Description": "Mod Control Center for ios 15",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [
+                    {
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/cc.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Control Center",
+            "Caption": "Change Flash & Camera icon",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcentermod.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcentermodios15.misaka",
+                  "Description": "Mod Control Center for ios 15"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.controlcentermodios15"
+        },
     ]
 }
