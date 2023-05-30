@@ -97,7 +97,35 @@
             ],
             "PackageID": "com.dobabaophuc.lsuigokuvegeta"
         },
-		
+		{
+            "Name": "Control Center Mod (ios 16)",
+            "Description": "Mod Control Center for ios 16",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [
+                    {
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/cc.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Control Center",
+            "Caption": "Change Flash & Camera icon",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcentermodios16.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcentermodios16.misaka",
+                  "Description": "Mod Control Center for ios 16"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.controlcentermodios16"
+        },
 		
     ]
 }
