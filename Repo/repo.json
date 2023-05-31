@@ -28,16 +28,16 @@
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu1.jpg"
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu16.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu16_1.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu16.misaka",
                   "Description": "Change Flash & Camera icon"
               }
             ],
-            "PackageID": "com.dobabaophuc.lsuipikachu"
+            "PackageID": "com.dobabaophuc.lsuipikachu16"
         },
 	{
             "Name": "LS UI Sharingan (ios 16)",
@@ -58,11 +58,11 @@
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan.mp4"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan16.mp4"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan16.misaka",
                   "Description": "Change Flash & Camera icon"
               }
             ],
@@ -87,15 +87,15 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta.mp4"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta15.mp4"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta15.misaka",
                   "Description": "Change Flash & Camera icon"
               }
             ],
-            "PackageID": "com.dobabaophuc.lsuigokuvegeta"
+            "PackageID": "com.dobabaophuc.lsuigokuvegeta15"
         },
 		{
             "Name": "Text Search Fixed (ios 16)",
@@ -270,6 +270,64 @@
               }
             ],
             "PackageID": "com.dobabaophuc.controlcenter1"
+        },
+{
+            "Name": "LS UI 1 (ios 16)",
+            "Description": "Change Flash & Camera icon",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [
+                    {
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "LS UI",
+            "Caption": "Change Flash & Camera icon",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui16_1.mp4"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui16_1.misaka",
+                  "Description": "Change Flash & Camera icon"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.lsui16_1"
+        },
+{
+            "Name": "LS UI 1 (ios 15)",
+            "Description": "Change Flash & Camera icon",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [
+                    {
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "LS UI",
+            "Caption": "Change Flash & Camera icon",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui15_1.mp4"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui15_1.misaka",
+                  "Description": "Change Flash & Camera icon"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.lsui15_1"
         },
     ]
 }
