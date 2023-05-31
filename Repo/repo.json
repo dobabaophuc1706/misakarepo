@@ -329,5 +329,34 @@
             ],
             "PackageID": "com.dobabaophuc.lsui15_1"
         },
+{
+            "Name": "Lock Icon SonGoku",
+            "Description": "Change Face ID icon",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [
+                    {
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lock.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "LockScreen",
+            "Caption": "Change Face ID icon",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/songokulock.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.songokulock.misaka",
+                  "Description": "Change Face ID icon"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.songokulock"
+        },
     ]
 }
