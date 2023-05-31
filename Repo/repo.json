@@ -170,7 +170,7 @@
             "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "Font",
-            "Caption": "Copyringht owned by 🇻🇳 Scarlet Tips 🇻🇳",
+            "Caption": "Copyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
@@ -241,6 +241,35 @@
               }
             ],
             "PackageID": "com.dobabaophuc.fontclock15_1"
+        },
+{
+            "Name": "CC UI",
+            "Description": "Change Control Center icons",
+            "Author": {
+                "Label": "PhucDo❄️",
+                "Links": [              
+		{
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/cc.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Font",
+            "Caption": "Copyright code owned by YangJiii",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1.misaka",
+                  "Description": "Change Control Center icons"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.controlcenter1"
         },
     ]
 }
