@@ -133,6 +133,10 @@
                 "Label": "p0s3id0n, PhucDo❄️",
                 "Links": [              
 		{
+                        "Label": "p0s3id0n",
+                        "Link": "https://t.me/p0s3id0n686"
+                    }
+		{
                         "Label": "PhucDo❄️",
                         "Link": "https://t.me/dobabaophuc"
                     }
@@ -141,8 +145,7 @@
             "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "Font",
-            "Caption": "Change System Font",
-	    "Caption": "Futura by @p0s3id0n",
+            "Caption": "Futura Font by @p0s3id0n",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
