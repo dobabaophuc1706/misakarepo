@@ -126,5 +126,38 @@
             ],
             "PackageID": "com.dobabaophuc.textsearch"
         },
+{
+            "Name": "Futura Font",
+            "Description": "Change System Font",
+            "Author": {
+                "Label": "p0s3id0n, PhucDo❄️",
+                "Links": [
+		{
+                        "Label": "p0s3id0n",
+                        "Link": "https://t.me/p0s3id0n686"
+                    }                    
+		{
+                        "Label": "PhucDo❄️",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Font",
+            "Caption": "Change System Font",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/futurafont.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.futurafont.misaka",
+                  "Description": "Change System Font"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.futurafont"
+        },
     ]
 }
