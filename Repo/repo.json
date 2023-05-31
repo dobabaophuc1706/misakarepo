@@ -203,15 +203,15 @@
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/clockfont16_1.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_1.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.clockfont16_1.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_1.misaka",
                   "Description": "Change Clock Font for ios 16"
               }
             ],
-            "PackageID": "com.dobabaophuc.clockfont16_1"
+            "PackageID": "com.dobabaophuc.fontclock16_1"
         },
 {
             "Name": "Font Clock 1 (ios 15)",
@@ -232,15 +232,15 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/clockfont15_1.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock15_1.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.clockfont15_1.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock15_1.misaka",
                   "Description": "Change Clock Font for ios 15"
               }
             ],
-            "PackageID": "com.dobabaophuc.clockfont15_1"
+            "PackageID": "com.dobabaophuc.fontclock15_1"
         },
     ]
 }
