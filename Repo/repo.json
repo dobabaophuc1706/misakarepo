@@ -69,7 +69,7 @@
             "PackageID": "com.dobabaophuc.lsuisharingan"
         },
 	{
-            "Name": "LS UI Goku & Vegeta (ios 15)",
+            "Name": "LS UI Goku & Vegeta",
             "Description": "Change Flash & Camera icon",
             "Author": {
                 "Label": "PhucDo❄️",
@@ -87,15 +87,15 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta15.mp4"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta.mp4"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta15.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
                   "Description": "Change Flash & Camera icon"
               }
             ],
-            "PackageID": "com.dobabaophuc.lsuigokuvegeta15"
+            "PackageID": "com.dobabaophuc.lsuigokuvegeta"
         },
 		{
             "Name": "Text Search Fixed (ios 16)",
