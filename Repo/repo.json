@@ -272,7 +272,7 @@
             "PackageID": "com.dobabaophuc.controlcenter1"
         },
 {
-            "Name": "LS UI 1 (ios 16)",
+            "Name": "LS UI 2",
             "Description": "Change Flash & Camera icon",
             "Author": {
                 "Label": "PhucDo❄️",
@@ -290,15 +290,15 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui16_1.mp4"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui2.mp4"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui16_1.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
                   "Description": "Change Flash & Camera icon"
               }
             ],
-            "PackageID": "com.dobabaophuc.lsui16_1"
+            "PackageID": "com.dobabaophuc.lsui2"
         },
 {
             "Name": "LS UI 1",
