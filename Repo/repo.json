@@ -25,7 +25,7 @@
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "LS UI",
             "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "16.0",
+            "MinIOSVersion": "1.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
                 "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu16.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu16_1.jpg"
@@ -55,7 +55,7 @@
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "LS UI",
             "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "16.0",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
                 "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan16.mp4"],
@@ -85,7 +85,7 @@
             "Category": "LS UI",
             "Caption": "Change Flash & Camera icon",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
                 "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta15.mp4"],
 			"Releases": [
@@ -256,7 +256,7 @@
             },
             "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/cc.png",
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
-            "Category": "Font",
+            "Category": "Control Center",
             "Caption": "Copyright code owned by YangJiii",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -287,7 +287,7 @@
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "LS UI",
             "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "16.0",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
                 "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui16_1.mp4"],
@@ -317,7 +317,7 @@
             "Category": "LS UI",
             "Caption": "Change Flash & Camera icon",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
                 "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui15_1.mp4"],
 			"Releases": [
