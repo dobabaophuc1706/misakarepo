@@ -10,7 +10,7 @@
     },
     "RepositoryContents": [      
         {
-            "Name": "LS UI Pikachu (ios 16)",
+            "Name": "LS UI Pikachu",
             "Description": "Change Flash & Camera icon",
             "Author": {
                 "Label": "PhucDo❄️",
@@ -25,19 +25,24 @@
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "LS UI",
             "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "1.0",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu16.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu16_1.jpg"
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu1.jpg"
             ],
 			"Releases": [
-              {
+		{
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu16.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
                   "Description": "Change Flash & Camera icon"
+              },
+	   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
+                  "Description": "Apply for all ios from 15.0 to 16.1.2"
               }
             ],
-            "PackageID": "com.dobabaophuc.lsuipikachu16"
+            "PackageID": "com.dobabaophuc.lsuipikachu"
         },
 	{
             "Name": "LS UI Sharingan",
@@ -64,6 +69,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
                   "Description": "Change Flash & Camera icon"
+              },
+	   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
+                  "Description": "Apply for all ios from 15.0 to 16.1.2"
               }
             ],
             "PackageID": "com.dobabaophuc.lsuisharingan"
@@ -93,6 +103,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
                   "Description": "Change Flash & Camera icon"
+              },
+	   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
+                  "Description": "Apply for all ios from 15.0 to 16.1.2"
               }
             ],
             "PackageID": "com.dobabaophuc.lsuigokuvegeta"
@@ -296,6 +311,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
                   "Description": "Change Flash & Camera icon"
+              },
+	   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
+                  "Description": "Apply for all ios from 15.0 to 16.1.2"
               }
             ],
             "PackageID": "com.dobabaophuc.lsui2"
@@ -325,6 +345,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui1.misaka",
                   "Description": "Change Flash & Camera icon"
+              },
+	   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui1.misaka",
+                  "Description": "Apply for all ios from 15.0 to 16.1.2"
               }
             ],
             "PackageID": "com.dobabaophuc.lsui1"
