@@ -40,7 +40,7 @@
             "PackageID": "com.dobabaophuc.lsuipikachu16"
         },
 	{
-            "Name": "LS UI Sharingan (ios 16)",
+            "Name": "LS UI Sharingan",
             "Description": "Change Flash & Camera icon",
             "Author": {
                 "Label": "PhucDo❄️",
@@ -58,11 +58,11 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan16.mp4"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan.mp4"],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan16.misaka",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
                   "Description": "Change Flash & Camera icon"
               }
             ],
