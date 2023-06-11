@@ -528,5 +528,34 @@
             ],
             "PackageID": "com.dobabaophuc.emojijoypixelsdecal"
         },
+{
+            "Name": "Blob Emoji",
+            "Description": "Change Emoji Icons",
+            "Author": {
+                "Label": "PhucDo",
+                "Links": [              
+		{
+                        "Label": "PhucDo",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emoji.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Emoji",
+            "Caption": "Change Emoji Icons",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojiblob.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojiblob.misaka",
+                  "Description": "Change Emoji Icon"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.emojiblob"
+        },
     ]
 }
