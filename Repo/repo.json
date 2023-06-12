@@ -276,15 +276,20 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_2_1.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_2_2.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1.misaka",
                   "Description": "Change Control Center icons"
               }
+{
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_2.misaka",
+                  "Description": "Change Control Center icons"
+              }
             ],
-            "PackageID": "com.dobabaophuc.controlcenter1"
+            "PackageID": "com.dobabaophuc.controlcenter1_2"
         },
 {
             "Name": "LS UI 2",
