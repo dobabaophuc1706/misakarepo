@@ -557,5 +557,38 @@
             ],
             "PackageID": "com.dobabaophuc.emojiblob"
         },
+{
+            "Name": "LowBattery Notication (ios 16)",
+            "Description": "Custom LowBattery Notication for ios 16",
+            "Author": {
+                "Label": "YangJiii, PhucDo",
+                "Links": [              
+		{
+                        "Label": "PhucDo",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+		{
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/notication.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Custom",
+            "Caption": "Custom LowBattery Notication",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/batterynotication.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.batterynoticationios16.misaka",
+                  "Description": "Custom LowBattery Notication"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.batterynoticationios16"
+        },
     ]
 }
