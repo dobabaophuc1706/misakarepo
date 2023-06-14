@@ -591,5 +591,34 @@
             ],
             "PackageID": "com.dobabaophuc.batterynoticationios16"
         },
+{
+            "Name": "Change 3G 4G LTE (ios 16)",
+            "Description": "Custom 3G 4G LTE text for ios 16",
+            "Author": {
+                "Label": "PhucDo",
+                "Links": [              
+		{
+                        "Label": "PhucDo",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/network.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Custom",
+            "Caption": "Custom 3G 4G LTE text for ios 16",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/change3g4glte.jpg"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.change3g4glte.misaka",
+                  "Description": "Custom 3G 4G LTE text for ios 16"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.change3g4glte"
+        },
     ]
 }
