@@ -287,9 +287,14 @@
                   "Version": "1.1",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_2.misaka",
                   "Description": "Change Control Center icons"
+              },
+{
+                  "Version": "1.2",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_3.misaka",
+                  "Description": "Fix large icons"
               }
             ],
-            "PackageID": "com.dobabaophuc.controlcenter1"
+            "PackageID": "com.dobabaophuc.controlcenter1_3"
         },
 {
             "Name": "LS UI 2",
