@@ -620,5 +620,39 @@
             ],
             "PackageID": "com.dobabaophuc.change3g4glte"
         },
+{
+            "Name": "LS UI 3",
+            "Description": "Change Flash & Camera icon",
+            "Author": {
+                "Label": "PhucDo",
+                "Links": [
+                    {
+                        "Label": "PhucDo",
+                        "Link": "https://t.me/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "LS UI",
+            "Caption": "Change Flash & Camera icon",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui3.mp4"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui3.misaka",
+                  "Description": "Change Flash & Camera icon"
+              },
+	   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui3.misaka",
+                  "Description": "Apply for all ios from 15.0 to 16.1.2"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.lsui3"
+        },
     ]
 }
