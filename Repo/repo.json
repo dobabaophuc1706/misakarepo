@@ -659,5 +659,63 @@
             ],
             "PackageID": "com.dobabaophuc.lsui3"
         },
+{
+            "Name": "Mod CC iOS 16",
+            "Description": "Change Control Center icons size",
+            "Author": {
+                "Label": "PhucDo",
+                "Links": [              
+		{
+                        "Label": "PhucDo",
+                        "Link": "https://twitter.com/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/cc.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Control Center",
+            "Caption": "Mod CC for iOS 16",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16.png"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16.misaka",
+                  "Description": "Change Control Center icons size"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.ccmodios16"
+        },
+{
+            "Name": "Text Search V2 (ios 16)",
+            "Description": "Edit text Seach and Siri's Suggestion for ios 16",
+            "Author": {
+                "Label": "CG Gio, PhucDo",
+                "Links": [
+                    {
+                        "Label": "PhucDo",
+                        "Link": "https://twitter.com/dobabaophuc"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/search.png",
+            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
+            "Category": "Setting",
+            "Caption": "Edit text Seach and Siri's Suggestion for ios 16",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+		"Screenshot": [
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearchv2ios16.png"],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearchv2ios16.misaka",
+                  "Description": "Edit text Seach for ios 16"
+              }
+            ],
+            "PackageID": "com.dobabaophuc.textsearchv2ios16"
+        },
     ]
 }
