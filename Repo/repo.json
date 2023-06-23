@@ -113,10 +113,10 @@
             "PackageID": "com.dobabaophuc.lsuigokuvegeta"
         },
 		{
-            "Name": "Text Search Fixed (ios 16)",
+            "Name": "Text Search (ios 16)",
             "Description": "Edit text Seach for ios 16",
             "Author": {
-                "Label": "YangJiii, tdquang, PhucDo",
+                "Label": "PhucDo, #Qari",
                 "Links": [
                     {
                         "Label": "PhucDo",
@@ -131,12 +131,17 @@
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch2.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch3.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch4.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
                   "Description": "Edit text Seach for ios 16"
+              },
+ {
+                  "Version": "1.1",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch_2.misaka",
+                  "Description": "Three More Options"
               }
             ],
             "PackageID": "com.dobabaophuc.textsearch"
