@@ -302,7 +302,7 @@
                   "Version": "1.5",
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_5.misaka",
                   "Description": "Add more icons: Shazam, Brightness, Screen Mirroring, Volume and more...; Fix icon size."
-              },
+              }
             ],
             "PackageID": "com.dobabaophuc.controlcenter1_5"
         },
