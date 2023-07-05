@@ -277,11 +277,11 @@
             "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/cc.png",
             "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/banner.jpg",
             "Category": "Control Center",
-            "Caption": "Copyright code owned by YangJiii",
+            "Caption": "Thanks YangJiii, Straight Tamago, htrowii",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_2_1.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_2_2.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_1.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_2.jpg"], "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_3.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
@@ -298,8 +298,13 @@
                   "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_3.misaka",
                   "Description": "Fix large icons"
               }
+{
+                  "Version": "1.5",
+                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_5.misaka",
+                  "Description": "Add more icons: Shazam, Brightness, Screen Mirroring, Volume and more...; Fix icon size."
+              },
             ],
-            "PackageID": "com.dobabaophuc.controlcenter1_3"
+            "PackageID": "com.dobabaophuc.controlcenter1_5"
         },
 {
             "Name": "LS UI 2",
