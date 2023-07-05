@@ -281,7 +281,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
 		"Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_1.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_2.jpg"], "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_3.jpg"],
+                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_1.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_2.jpg", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/controlcenter1_5_3.jpg"],
 			"Releases": [
               {
                   "Version": "1.0",
