@@ -1,0 +1,152 @@
+{
+    "Name": "Theme: Microsoft Windows 3D UI Theme",
+    "Description": "Bring IOS AppIcon into a new look",
+    "Author": {
+        "Label": "Phuc Do",
+        "Links": [              
+                {
+                "Label": "Phuc Do",
+                "Link": "https://twitter.com/dobabaophuc"
+            }
+        ]
+    },
+    "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/theme.png",
+    "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/pink.gif",
+    "Category": "Themes",
+    "Caption": "Apple IOS AppIcon -> Microsoft Windows AppIcon",
+    "MinIOSVersion": "15.0",
+    "MaxIOSVersion": "16.6",
+    "AdditionalSupportedIOS": {
+    "MinIOSVersion_CustomLabel": "15.0",
+    "MaxIOSVersion_CustomLabel": "16.6b1",
+    "Build": [
+    "20G5026e"
+  ]
+},
+"Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/windowsthemeui1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/windowsthemeui2.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/windowsthemeui3.png"],
+        "Releases": [
+      {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.windowstheme.misaka",
+          "Description": "Bring IOS AppIcon into a new look"
+      }
+    ],
+    "PackageID": "com.dobabaophuc.windowstheme"
+},
+{
+  "Name": "Theme: InCircle Theme",
+  "Description": "Bring IOS AppIcon into a new look",
+  "Author": {
+      "Label": "Phuc Do, Dr.Theme",
+      "Links": [              
+          {
+              "Label": "Phuc Do",
+              "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "Dr.Theme [Telegram]",
+            "Link": "https://t.me/UAE_AD1001"
+        }
+      ]
+  },
+  "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/theme.png",
+  "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/pink.gif",
+  "Category": "Themes",
+  "Caption": "Both Light Mode & Dark Mode\n\nJoin Check0ver Theme at [Telegram](https://t.me/CheckOver)",
+  "MinIOSVersion": "15.0",
+  "MaxIOSVersion": "16.6",
+  "AdditionalSupportedIOS": {
+    "MinIOSVersion_CustomLabel": "15.0",
+    "MaxIOSVersion_CustomLabel": "16.6b1",
+    "Build": [
+      "20G5026e"
+    ]
+  },
+  "Screenshot": [
+      "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/InCircleTheme1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/InCircleTheme2.png"],
+      "Releases": [
+    {
+        "Version": "1.0",
+        "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.InCircleTheme.misaka",
+        "Description": "Bring IOS AppIcon into a new look"
+    }
+  ],
+  "PackageID": "com.dobabaophuc.InCircleTheme"
+},
+{
+"Name": "Theme: SL33K Theme",
+"Description": "Bring IOS AppIcon into a new look",
+"Author": {
+  "Label": "Phuc Do, Dr.Theme",
+  "Links": [              
+      {
+          "Label": "Phuc Do",
+          "Link": "https://twitter.com/dobabaophuc"
+      },
+      {
+        "Label": "Dr.Theme [Telegram]",
+        "Link": "https://t.me/UAE_AD1001"
+    }
+  ]
+},
+"Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/theme.png",
+"HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/pink.gif",
+"Category": "Themes",
+"Caption": "Join Check0ver Theme at [Telegram](https://t.me/CheckOver)",
+"MinIOSVersion": "15.0",
+"MaxIOSVersion": "16.6",
+"AdditionalSupportedIOS": {
+"MinIOSVersion_CustomLabel": "15.0",
+"MaxIOSVersion_CustomLabel": "16.6b1",
+"Build": [
+  "20G5026e"
+]
+},
+"Screenshot": [
+  "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/SL33KTheme.png"],
+"Releases": [
+{
+    "Version": "1.0",
+    "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.SL33KTheme.misaka",
+    "Description": "Bring IOS AppIcon into a new look"
+}
+],
+"PackageID": "com.dobabaophuc.SL33KTheme"
+},
+{
+"Name": "Theme: Innovation Theme",
+"Description": "Bring IOS AppIcon into a new look",
+"Author": {
+"Label": "Ukn",
+"Links": [              
+    {
+        "Label": "Unknow",
+        "Link": "https://twitter.com/dobabaophuc"
+    }
+]
+},
+"Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/theme.png",
+"HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/pink.gif",
+"Category": "Themes",
+"Caption": "Join Check0ver Theme at [Telegram](https://t.me/CheckOver)",
+"MinIOSVersion": "15.0",
+"MaxIOSVersion": "16.6",
+"AdditionalSupportedIOS": {
+"MinIOSVersion_CustomLabel": "15.0",
+"MaxIOSVersion_CustomLabel": "16.6b1",
+"Build": [
+"20G5026e"
+]
+},
+"Screenshot": [
+"https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/InnovationTheme.png"],
+"Releases": [
+{
+  "Version": "1.0",
+  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.InnovationTheme.misaka",
+  "Description": "Bring IOS AppIcon into a new look"
+}
+],
+"PackageID": "com.dobabaophuc.InnovationTheme"
+}
