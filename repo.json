@@ -1,15 +1,15 @@
 {
-    "RepositoryName": "PhucDo 3.0 ✨",
-    "RepositoryDescription": "Tweaks for MDC and KFD",
-    "RepositoryAuthor": "Phuc Do",
-    "RepositoryIcon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Avatar/repo.png",
-    "RepositoryWebsite": "https://phucdo-repo.pages.dev/",
-	"Default":{
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-        "ViewCount": true
-    },
-    "RepositoryAccent": "#D28CB0",
-    "featured": [
+  "RepositoryName": "PhucDo 3.0 ✨",
+  "RepositoryDescription": "Tweaks for MDC and KFD",
+  "RepositoryAuthor": "Phuc Do",
+  "RepositoryIcon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Avatar/repo.png",
+  "RepositoryWebsite": "https://phucdo-repo.pages.dev/",
+  "Default": {
+    "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+    "ViewCount": true
+  },
+  "RepositoryAccent": "#D28CB0",
+  "featured": [
     {
       "name": "Pulsar Control Center UI",
       "bundleid": "com.dobabaophuc.controlcenter1_6",
@@ -76,66 +76,60 @@
       "banner": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/lsuimng15.png",
       "showname": false
     }
-    ],
-    "RepositoryContents": [
-      {
-        "Name": "[Christmas] LS Christmas",
-        "Description": "Merry Christmas!!!",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [              
-                {
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/Christmas2.gif",
-        "Category": "Font",
-        "Caption": "LS Christmas!!!",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
-"Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas1.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas2.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas3.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas4.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas5.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas6.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas7.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas8.png"],
-  "Releases": [
+  ],
+  "RepositoryContents": [
+    {
+      "Name": "[Christmas] LS Christmas",
+      "Description": "Merry Christmas!!!",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
           {
-              "Version": "1.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSChristmas.misaka",
-              "Description": "[Christmas]"
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
           }
-        ],
-        "PackageID": "com.dobabaophuc.LSChristmas"
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/Christmas2.gif",
+      "Category": "Font",
+      "Caption": "LS Christmas!!!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas5.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas6.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas7.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSChristmas8.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSChristmas.misaka",
+          "Description": "[Christmas]"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSChristmas"
     },
     {
       "Name": "[Christmas] Christmas Lock",
       "Description": "Merry Christmas!!!",
       "Author": {
-          "Label": "Phuc Do",
-          "Links": [              
-              {
-                  "Label": "Phuc Do",
-                  "Link": "https://twitter.com/dobabaophuc"
-              },
-              {
-                "Label": "しまりん🍡🍨",
-                "Link": "https://twitter.com/straight_tamago"
-              }
-          ]
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "しまりん🍡🍨",
+            "Link": "https://twitter.com/straight_tamago"
+          }
+        ]
       },
       "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
       "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/Christmas2.gif",
@@ -150,230 +144,229 @@
           "20G5026e"
         ]
       },
-"Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ChristmasLock1.png",
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ChristmasLock2.png"],
-"Releases": [
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ChristmasLock1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ChristmasLock2.png"
+      ],
+      "Releases": [
         {
-            "Version": "1.0",
-            "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ChristmasLock.misaka",
-            "Description": "[Christmas]"
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ChristmasLock.misaka",
+          "Description": "[Christmas]"
         }
       ],
       "PackageID": "com.dobabaophuc.ChristmasLock"
-  },
-  {
-    "Name": "[Christmas] LS UI Christmas",
-    "Description": "Merry Christmas!!!",
-    "Author": {
+    },
+    {
+      "Name": "[Christmas] LS UI Christmas",
+      "Description": "Merry Christmas!!!",
+      "Author": {
         "Label": "Phuc Do",
         "Links": [
-            {
-                "Label": "Phuc Do",
-                "Link": "https://twitter.com/dobabaophuc"
-            }
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
         ]
-    },
-    "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-    "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/Christmas2.gif",
-    "Category": "LS UI",
-    "Caption": "LS UI Christmas!!!",
-    "MinIOSVersion": "15.0",
-    "MaxIOSVersion": "16.6",
-    "AdditionalSupportedIOS": {
-      "MinIOSVersion_CustomLabel": "15.0",
-      "MaxIOSVersion_CustomLabel": "16.6b1",
-      "Build": [
-        "20G5026e"
-      ]
-    },
-"Screenshot": [
-    "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIChristmas1.png",
-    "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIChristmas2.png"
-    ],
-"Releases": [
-{
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/Christmas2.gif",
+      "Category": "LS UI",
+      "Caption": "LS UI Christmas!!!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIChristmas1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIChristmas2.png"
+      ],
+      "Releases": [
+        {
           "Version": "1.0",
           "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSUIChristmas.misaka",
           "Description": "[Christmas]"
-      }
-    ],
-    "PackageID": "com.dobabaophuc.LSUIChristmas"
-},
-      {
-        "Name": "Passcode Theme Galaxy X",
-        "Description": "Change Passcode & Dialer Theme",
-        "accent":"#D28CB0",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [
-                {
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/dialer.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-        "Category": "Passcode Theme",
-        "Caption": "Desinged by [@dobabaophuc](https://twitter.com/dobabaophuc)",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
-    "Screenshot": [
-        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PasscodeThemeGalaxyX-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PasscodeThemeGalaxyX-2.png"
-        ],
-    "Releases": [
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSUIChristmas"
+    },
     {
-              "Version": "1.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.PasscodeThemeGalaxyX.misaka",
-              "Description": "Release"
+      "Name": "Passcode Theme Galaxy X",
+      "Description": "Change Passcode & Dialer Theme",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
           }
-        ],
-        "PackageID": "com.dobabaophuc.PasscodeThemeGalaxyX"
+        ]
       },
-      {
-        "Name": "PiP Status Bar SysInfo",
-        "Description": "New status bar 😇",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [              
-{
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/pip.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-        "Category": "PiP",
-        "Caption": "*Pip Status Bar:* iOS; Build version; RAM free (MB); Disk Free (GB)\n\nRequest misaka 3.0 or newer!!\n\nUsing Picture in Picture (PiP)\n\nChoose ur favorite text color in *Version*",
-        "MinIOSVersion": "15.0",
-        "Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-b.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-p.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-r.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-w.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-y.png"],
-        "compatibleExploit": ["MDC", "KFD", "No Exploit"],
-  "Releases": [
-          {
-              "Version": "Blue Text",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-b.misaka",
-              "Description": "PiP STT"
-          },
-          {
-            "Version": "Pink Text",
-            "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-p.misaka",
-            "Description": "PiP STT"
-          },
-          {
-            "Version": "Red Text",
-            "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-r.misaka",
-            "Description": "PiP STT"
-          },
-          {
-            "Version": "White Text",
-            "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-w.misaka",
-            "Description": "PiP STT"
-          },
-          {
-            "Version": "Yellow Text",
-            "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-y.misaka",
-            "Description": "PiP STT"
-          }
-        ],
-        "PackageID": "com.dobabaophuc.pipsttSysInfo"
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/dialer.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Passcode Theme",
+      "Caption": "Desinged by [@dobabaophuc](https://twitter.com/dobabaophuc)",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PasscodeThemeGalaxyX-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PasscodeThemeGalaxyX-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.PasscodeThemeGalaxyX.misaka",
+          "Description": "Release"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.PasscodeThemeGalaxyX"
     },
-      {
-        "Name": "PiP Status Bar 1.0",
-        "Description": "New status bar 😇",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [              
-{
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/pip.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-        "Category": "PiP",
-        "Caption": "Pip Status Bar\n\nRequest misaka 3.0 or newer!!\n\nUsing Picture in Picture (PiP)",
-        "MinIOSVersion": "15.0",
-        "Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipstt1.png"],
-        "compatibleExploit": ["MDC", "KFD", "No Exploit"],
-  "Releases": [
+    {
+      "Name": "PiP Status Bar SysInfo",
+      "Description": "New status bar 😇",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
           {
-              "Version": "1.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipstt1.misaka",
-              "Description": "PiP STT"
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
           }
-        ],
-        "PackageID": "com.dobabaophuc.pipstt1"
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/pip.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "PiP",
+      "Caption": "*Pip Status Bar:* iOS; Build version; RAM free (MB); Disk Free (GB)\n\nRequest misaka 3.0 or newer!!\n\nUsing Picture in Picture (PiP)\n\nChoose ur favorite text color in *Version*",
+      "MinIOSVersion": "15.0",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-b.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-p.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-r.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-w.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipttSysInfo-y.png"
+      ],
+      "compatibleExploit": [
+        "MDC",
+        "KFD",
+        "No Exploit"
+      ],
+      "Releases": [
+        {
+          "Version": "Blue Text",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-b.misaka",
+          "Description": "PiP STT"
+        },
+        {
+          "Version": "Pink Text",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-p.misaka",
+          "Description": "PiP STT"
+        },
+        {
+          "Version": "Red Text",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-r.misaka",
+          "Description": "PiP STT"
+        },
+        {
+          "Version": "White Text",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-w.misaka",
+          "Description": "PiP STT"
+        },
+        {
+          "Version": "Yellow Text",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipttSysInfo-y.misaka",
+          "Description": "PiP STT"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.pipsttSysInfo"
     },
-      {
-        "Name": "[Halloween] LS Halloween",
-        "Description": "Happy Halloween!!!",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [              
-{
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/halloween.png",
-        "Category": "Font",
-        "Caption": "LS Halloween!!!",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
-"Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween1.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween2.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween3.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween4.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween5.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween6.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween7.png",
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween8.png"],
-  "Releases": [
+    {
+      "Name": "PiP Status Bar 1.0",
+      "Description": "New status bar 😇",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
           {
-              "Version": "1.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSHalloween.misaka",
-              "Description": "[Halloween]"
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
           }
-        ],
-        "PackageID": "com.dobabaophuc.LSHalloween"
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/pip.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "PiP",
+      "Caption": "Pip Status Bar\n\nRequest misaka 3.0 or newer!!\n\nUsing Picture in Picture (PiP)",
+      "MinIOSVersion": "15.0",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/pipstt1.png"
+      ],
+      "compatibleExploit": [
+        "MDC",
+        "KFD",
+        "No Exploit"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pipstt1.misaka",
+          "Description": "PiP STT"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.pipstt1"
+    },
+    {
+      "Name": "[Halloween] LS Halloween",
+      "Description": "Happy Halloween!!!",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/halloween.png",
+      "Category": "Font",
+      "Caption": "LS Halloween!!!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween5.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween6.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween7.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSHalloween8.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSHalloween.misaka",
+          "Description": "[Halloween]"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSHalloween"
     },
     {
       "Name": "[Halloween] LS UI Halloween",
       "Description": "Happy Halloween!!!",
       "Author": {
-          "Label": "Phuc Do",
-          "Links": [
-              {
-                  "Label": "Phuc Do",
-                  "Link": "https://twitter.com/dobabaophuc"
-              }
-          ]
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
       },
       "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
       "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/halloween.png",
@@ -388,2129 +381,1942 @@
           "20G5026e"
         ]
       },
-  "Screenshot": [
-      "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIHalloween1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIHalloween2.png"
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIHalloween1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSUIHalloween2.png"
       ],
-"Releases": [
-{
-            "Version": "1.0",
-            "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSUIHalloween.misaka",
-            "Description": "[Halloween]"
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSUIHalloween.misaka",
+          "Description": "[Halloween]"
         }
       ],
       "PackageID": "com.dobabaophuc.LSUIHalloween"
-  },
-  {
-    "Name": "Pulsar Settings UI",
-    "Description": "Change Settings icons",
-    "accent":"#D28CB0",
-    "Author": {
+    },
+    {
+      "Name": "Pulsar Settings UI",
+      "Description": "Change Settings icons",
+      "accent": "#D28CB0",
+      "Author": {
         "Label": "Phuc Do",
         "Links": [
-            {
-                "Label": "Phuc Do",
-                "Link": "https://twitter.com/dobabaophuc"
-            },
-            {
-              "Label": "icons8",
-              "Link": "https://icons8.com"
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "icons8",
+            "Link": "https://icons8.com"
           }
         ]
-    },
-    "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/setting.png",
-    "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-    "Category": "Settings",
-    "Caption": "Pulsar Settings UI",
-    "MinIOSVersion": "15.0",
-    "MaxIOSVersion": "16.6",
-    "AdditionalSupportedIOS": {
-      "MinIOSVersion_CustomLabel": "15.0",
-      "MaxIOSVersion_CustomLabel": "16.6b1",
-      "Build": [
-        "20G5026e"
-      ]
-    },
-    "Screenshot": [
-    "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-2.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-3.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-4.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-5.png"
-    ],
-"Releases": [
-{
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/setting.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Settings",
+      "Caption": "Pulsar Settings UI",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarSettingsUI-5.png"
+      ],
+      "Releases": [
+        {
           "Version": "1.0",
           "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.PulsarSettingsUI.misaka",
           "Description": "Release"
-      }
-    ],
-    "PackageID": "com.dobabaophuc.PulsarSettingsUI"
-  },
-  {
-    "Name": "Deco Control Center UI",
-    "Description": "Change Control Center icons",
-    "accent":"#D28CB0",
-    "Author": {
+        }
+      ],
+      "PackageID": "com.dobabaophuc.PulsarSettingsUI"
+    },
+    {
+      "Name": "Deco Control Center UI",
+      "Description": "Change Control Center icons",
+      "accent": "#D28CB0",
+      "Author": {
         "Label": "Phuc Do",
-        "Links": [              
-              {
-                "Label": "Phuc Do",
-                "Link": "https://twitter.com/dobabaophuc"
-              },
-              {
-                "Label": "icons8",
-                "Link": "https://icons8.com"
-            }
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "icons8",
+            "Link": "https://icons8.com"
+          }
         ]
-    },
-    "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
-    "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-    "Category": "Control Center",
-    "Caption": "Deco Control Center UI 1.1 ✨",
-    "MinIOSVersion": "15.0",
-    "MaxIOSVersion": "16.6",
-    "AdditionalSupportedIOS": {
-      "MinIOSVersion_CustomLabel": "15.0",
-      "MaxIOSVersion_CustomLabel": "16.6b1",
-      "Build": [
-        "20G5026e"
-      ]
-    },
-"Screenshot": [
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Control Center",
+      "Caption": "Deco Control Center UI 1.1 ✨",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
         "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-1.png",
         "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-5.png",
         "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-6.png",
         "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-2.png",
         "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-3.png",
-        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-4.png"],
-"Releases": [
-      {
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/DecoCC-4.png"
+      ],
+      "Releases": [
+        {
           "Version": "1.0",
           "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.DecoCC.misaka",
           "Description": "Release 1.0"
-      },
-      {
-        "Version": "1.1",
-        "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.DecoCC-1.1.misaka",
-        "Description": "1.1 Added NightShift & TrueTone icon"
-    }
-    ],
-    "PackageID": "com.dobabaophuc.DecoCC"
-},
-          {
-            "Name": "Pulsar Control Center UI",
-            "Description": "Change Control Center icons",
-            "accent":"#D28CB0",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		                  {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                      },
-                      {
-                        "Label": "しまりん🍡🍨",
-                        "Link": "https://twitter.com/straight_tamago"
-                      },
-                      {
-                        "Label": "htrowii",
-                        "Link": "https://twitter.com/htrowii"
-                      },
-                      {
-                        "Label": "YangJiii🍉",
-                        "Link": "https://twitter.com/duongduong0908"
-                      },
-                      {
-                        "Label": "icons8",
-                        "Link": "https://icons8.com"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Control Center",
-            "Caption": "Pulsar Control Center UI\n\nThank you for [しまりん🍡🍨](https://twitter.com/straight_tamago), [htrowii](https://twitter.com/htrowii), and [YangJiii🍉](https://twitter.com/duongduong0908)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC2.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC3.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC9.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC4.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC5.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC6.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC7.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC8.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pulsarcc.misaka",
-                  "Description": "Change Control Center icons"
-              },
-              {
-                "Version": "2.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pulsarcc2.0.misaka",
-                "Description": "Change Control Center icons"
-            }
-            ],
-            "PackageID": "com.dobabaophuc.pulsarCC"
         },
         {
-          "Name": "DuoTone Control Center UI",
-          "Description": "Change Control Center icons",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [              
-  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  },
-                  {
-                    "Label": "icons8",
-                    "Link": "https://icons8.com"
-                }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "Control Center",
-          "Caption": "Change Control Center UI",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-              "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccuifinal1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccuifinal2.png"],
-    "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1.misaka",
-                "Description": "Change Control Center icons"
-            },
-{
-                "Version": "1.1",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_2.misaka",
-                "Description": "Change Control Center icons"
-            },
-{
-                "Version": "1.2",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_3.misaka",
-                "Description": "Fix large icons"
-            },
-{
-                "Version": "1.5",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_5.misaka",
-                "Description": "Add more icons: Shazam, Brightness, Screen Mirroring, Volume and more... Fix icon size."
-            },
-{
-                "Version": "1.6",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_6.misaka",
-                "Description": "Fix Screen Mirroring iCon Didn't Work On iOs 15"
-            },
-{
-                "Version": "2.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter2_0.misaka",
-                "Description": "Change Style; Add More iCons; Fix Bugs"
-            },
-{
-                "Version": "Lastest",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenterfinal.misaka",
-                "Description": "Final Update - Change iCons color - Fix Bugs - More icons"
-            },
-{
-              "Version": "2.5",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter2_5.misaka",
-              "Description": "Update for KFD Devices"
-          }
-          ],
-          "PackageID": "com.dobabaophuc.controlcenter1_6"
-        },
-        {
-          "Name": "Any iCloud (Remove iCloud Tool)",
-          "Description": "Remove iCloud Tool",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  },
-                  {
-                      "Label": "YangJiii",
-                      "Link": "https://twitter.com/duongduong0908"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/setting.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "LS UI",
-          "Caption": "Remove iCloud Tool\n\nThanks to YangJiii 🍉\n\n[Github](https://github.com/dobabaophuc1706/)",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/anyicloud1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/anyicloud2.png"
-          ],
-    "Releases": [
-  {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.anyicloud.misaka",
-                "Description": "Remove iCloud Tool"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.anyicloud"
-        },
-        {
-          "Name": "AssistiveTouch Plampy",
-          "Description": "Bring AssistiveTouch into a new look",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  },
-                  {
-                    "Label": "icons8",
-                    "Link": "https://icons8.com"
-                }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ass.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "LockScreen",
-          "Caption": "Bring AssistiveTouch into a new look",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-              "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy1.png",  "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy2.png",  "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy3.png",  "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy4.png",  "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy5.png",  "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy6.png"],
-    "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.assplampy.misaka",
-                "Description": "Bring AssistiveTouch into a new look"
-            },
-  {
-                "Version": "2.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.assplampy2.misaka",
-                "Description": "Update Icons"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.assplampy"
-        },
-        {
-          "Name": "Keyboard Theme",
-          "Description": "Change Keyboard Theme",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/keyboard.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/keyboard.gif",
-          "Category": "Keyboard",
-          "Caption": "Change Keyboard Theme. Now with change Keycaps, KeycapsPad, PhoneKeyCap\n\nSuper Clearing Caches and Customize Space text",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/keyboardspace.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/keyboardspace2.png"
-          ],
-    "Releases": [
-  {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.keyboardspace.misaka",
-                "Description": "Change Keyboard Space text"
-            },
-            {
-              "Version": "2.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.keyboardtheme.misaka",
-              "Description": "Add Setting: Keycaps, KeycapsPad, PhoneKeyCaps with super clearing caches"
-          },
-          {
-              "Version": "2.1",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.keyboardtheme.misaka",
-              "Description": "Fix Auto Change Keycaps"
-          }
-          ],
-          "PackageID": "com.dobabaophuc.keyboardspace"
-        },
-        {
-          "Name": "Lock Icon Manager",
-          "Description": "Customize Face ID iCon",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "LockScreen",
-          "Caption": "Now you can customize your Lock & UnLock icons with your images",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-              "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lockmanager.png"],
-    "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lockmanager.misaka",
-                "Description": "Change Face ID iCon"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.lockmanager"
-        },
-        {
-          "Name": "CC Mod iOS 15",
-          "Description": "Change Control Center Layout",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [              
-  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "Control Center",
-          "Caption": "Change Control Center Layout for IOS 15 - Open Advanced Setting and choose your favorite style",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "15.7.1",
-  "Screenshot": [
-              "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-2.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-3.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-4.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-5.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-6.png"],
-    "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios15.misaka",
-                "Description": "Change Control Center Layout"
-            },
-            {
-                "Version": "2.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios15_1.misaka",
-                "Description": "Update New Layouts"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.ccmodios15"
-        },    
-        {
-          "Name": "CC Mod iOS 16",
-          "Description": "Change Control Center Layout",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [              
-  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "Control Center",
-          "Caption": "Change Control Center Layout for IOS 16 - Open Advanced Setting and choose your favorite style",
-          "MinIOSVersion": "16.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "16.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-              "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-2.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-3.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-4.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-5.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-6.png"],
-    "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16.misaka",
-                "Description": "Change Control Center Layout"
-            },
-            {
-              "Version": "2.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16.misaka",
-              "Description": "Update New Setting"
-          },
-          {
-              "Version": "3.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16_2.misaka",
-              "Description": "Update New Layout"
-          },
-          {
-              "Version": "4.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16_3.misaka",
-              "Description": "Update New Layouts"
-          }
-          ],
-          "PackageID": "com.dobabaophuc.ccmodios16"
-        },
-        {
-          "Name": "LS UI Manager IOS 15",
-          "Description": "Change Flash & Camera icon",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "LS UI",
-          "Caption": "Change Flash & Camera icon; Please choose the correct Tweak for your IOS Version",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "15.7.1",
-  "Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuimanager15.png"
-          ],
-    "Releases": [
-  {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager15.misaka",
-                "Description": "Change Flash & Camera icon"
-            },
-            {
-                "Version": "1.1",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager15.misaka",
-                "Description": "Fix"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.lsuimanager15"
-        },
-        {
-          "Name": "LS UI Manager IOS 16",
-          "Description": "Change Flash & Camera icon",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "LS UI",
-          "Caption": "Change Flash & Camera icon; Please choose the correct Tweak for your IOS Version",
-          "MinIOSVersion": "16.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "16.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-      "Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuimanager16.png"
-          ],
-    "Releases": [
-  {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager16.misaka",
-                "Description": "Change Flash & Camera icon"
-            },
-            {
-                "Version": "1.1",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager16.misaka",
-                "Description": "Fix"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.lsuimanager16"
-        },
-        {
-          "Name": "LS KgSecondChances",
-          "Description": "Bring to you new Font Clock",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [              
-  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "Font",
-          "Caption": "LS KgSecondChances",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
-          },
-  "Screenshot": [
-              "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSKgSecondChances.png"],
-    "Releases": [
-            {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSKgSecondChances.misaka",
-                "Description": "Change Clock Font"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.LSKgSecondChances"
-      },
-      {
-        "Name": "LS Cimero Color Pro",
-        "Description": "Color Clock Font",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [              
-                {
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-        "Category": "Font",
-        "Caption": "A new style of clock font for ios 16\n\n🎉 Happy New Year! 🎉\n\nFollow my Twitter: [Phuc Do](https://twitter.com/dobabaophuc)\n\n🎊00:00 01-01-2024🎊",
-        "MinIOSVersion": "16.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "16.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
-"Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSCimeroPro.png"],
-  "Releases": [
-          {
-              "Version": "1.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSCimeroPro.misaka",
-              "Description": "Release"
-          }
-        ],
-        "PackageID": "com.dobabaophuc.LSCimeroPro"
-      },
-      {
-        "Name": "LS Bendigo",
-        "Description": "Bring to you new Font Clock",
-        "Author": {
-            "Label": "Phuc Do",
-            "Links": [              
-{
-                    "Label": "Phuc Do",
-                    "Link": "https://twitter.com/dobabaophuc"
-                }
-            ]
-        },
-        "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-        "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-        "Category": "Font",
-        "Caption": "LS Bendigo",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
-"Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSBendigo.png"],
-  "Releases": [
-          {
-              "Version": "1.0",
-              "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSBendigo.misaka",
-              "Description": "Change Clock Font"
-          }
-        ],
-        "PackageID": "com.dobabaophuc.LSBendigo"
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.DecoCC-1.1.misaka",
+          "Description": "1.1 Added NightShift & TrueTone icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.DecoCC"
     },
-        {
-            "Name": "LS UI Pikachu",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu2.png"
-            ],
-			"Releases": [
-		{
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
-                  "Description": "Change Flash & Camera icon"
-              },
-	   {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
-                  "Description": "Apply for all ios from 15.0 to 16.7"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsuipikachu"
-        },
-	{
-            "Name": "LS UI Sharingan",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
-                  "Description": "Change Flash & Camera icon"
-              },
-	   {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
-                  "Description": "Apply for all ios from 15.0 to 16.7"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsuisharingan"
-        },
-	{
-            "Name": "LS UI Goku & Vegeta",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
-                  "Description": "Change Flash & Camera icon"
-              },
-	   {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
-                  "Description": "Apply for all ios from 15.0 to 16.7"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsuigokuvegeta"
-        },
-		{
-            "Name": "Text Search (ios 16)",
-            "Description": "Edit text Seach for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/search.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Setting",
-            "Caption": "Edit text Search for ios 16",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch2.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch3.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch4.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
-                  "Description": "Edit text Seach for ios 16"
-              },
- {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
-                  "Description": "Three More Options"
-              },
-{
-                  "Version": "1.2",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
-                  "Description": "New UI"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.textsearch"
-        },
-{
-            "Name": "Font Futura",
-            "Description": "Change System Font",
-            "Author": {
-                "Label": "p0s3id0n, Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Futura Font remade by @p0s3id0n",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/futurafont.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.futurafont.misaka",
-                  "Description": "Change System Font"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.futurafont"
-        },
-{
-            "Name": "Font Cocon Pro",
-            "Description": "Change System Font",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Font by Alex Man",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/coconprofont.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.coconprofont.misaka",
-                  "Description": "Change System Font"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.yenniefont"
-        },
-{
-            "Name": "LS 16: LS Group 1",
-            "Description": "Change Clock Font for ios 16",
-            "Author": {
-                "Label": "p0s3id0n, Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Clock Font by @p0s3id0n",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_1.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_1.misaka",
-                  "Description": "Change Clock Font for ios 16"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.fontclock16_1"
-        },
-{
-            "Name": "LS UI 2",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui2-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui2-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
-                  "Description": "Change Flash & Camera icon"
-              },
-	   {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
-                  "Description": "Apply for all ios from 15.0 to 16.7"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsui2"
-        },
-{
-            "Name": "LS UI 1",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui1-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui1-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui1.misaka",
-                  "Description": "Change Flash & Camera icon"
-              },
-	   {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui1.misaka",
-                  "Description": "Apply for all ios from 15.0 to 16.7"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsui1"
-        },
-{
-            "Name": "Lock Icon SonGoku",
-            "Description": "Change Face ID icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LockScreen",
-            "Caption": "Change Face ID icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/songokulock.jpg"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.songokulock.misaka",
-                  "Description": "Change Face ID icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.songokulock"
-        },
-{
-            "Name": "Font Bai Jamjuree",
-            "Description": "Change System Font",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Font by Alex Man",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/baijamjureefont.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.baijamjureefont.misaka",
-                  "Description": "Change System Font"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.kyotofont"
-        },
-{
-            "Name": "LS 16: LS Group 2",
-            "Description": "Change Clock Font for ios 16",
-            "Author": {
-                "Label": "p0s3id0n, Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Clock Font by @p0s3id0n",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_2.misaka",
-                  "Description": "Change Clock Font for ios 16"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.fontclock16_2"
-        },
-{
-            "Name": "Font Geogrotesque",
-            "Description": "Change System Font",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Font by Alex Man",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/geogrotesquefont.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.geogrotesquefont.misaka",
-                  "Description": "Change System Font"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.geogrotesquefont"
-        },
-{
-            "Name": "Emoji Facebook",
-            "Description": "Change Emoji Icons",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/emoji.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Emoji",
-            "Caption": "Change Emoji Icons",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojifacebook.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojifacebook.misaka",
-                  "Description": "Change Emoji Icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.emojifacebook"
-        },
-{
-            "Name": "Emoji Joy Pixels Decal",
-            "Description": "Change Emoji Icons",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/emoji.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Emoji",
-            "Caption": "Change Emoji Icons",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojijoypixelsdecal.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojijoypixelsdecal.misaka",
-                  "Description": "Change Emoji Icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.emojijoypixelsdecal"
-        },
-{
-            "Name": "Emoji Blob",
-            "Description": "Change Emoji Icons",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/emoji.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Emoji",
-            "Caption": "Change Emoji Icons",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojiblob.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojiblob.misaka",
-                  "Description": "Change Emoji Icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.emojiblob"
-        },
-{
-            "Name": "LowBattery Notification (ios 16)",
-            "Description": "Customize LowBattery Notification for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/notication.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Custom",
-            "Caption": "Customize LowBattery Notification",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/batterynotication1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/batterynotication2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.batterynoticationios16.misaka",
-                  "Description": "Customize LowBattery Notification"
-              },
-		{
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.batterynoticationios16-1.misaka",
-                  "Description": "Fix bug, Update UI"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.batterynoticationios16"
-        },
-{
-            "Name": "Change 3G 4G LTE 5G (ios 16)",
-            "Description": "Customize 3G 4G LTE text for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/network.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Custom",
-            "Caption": "Customize 3G 4G LTE 5G text for ios 16",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/change3g4glte5g.png","https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/change3g4glte5g-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.change3g4glte.misaka",
-                  "Description": "Customize 3G 4G LTE text for ios 16"
-              },
-{
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.change3g4glte5g.misaka",
-                  "Description": "New UI + 5G text"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.change3g4glte"
-        },
-{
-            "Name": "LS UI 3",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui3-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui3-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui3.misaka",
-                  "Description": "Change Flash & Camera icon"
-              },
-	   {
-                  "Version": "1.1",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui3.misaka",
-                  "Description": "Apply for all ios from 15.0 to 16.7"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsui3"
-        },
-{
-            "Name": "Text Search V2 (ios 16)",
-            "Description": "Edit text Seach and Siri's Suggestion for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/search.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Setting",
-            "Caption": "Edit text Seach and Siri Suggestion for ios 16",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearchv2ios16.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearchv2ios16.misaka",
-                  "Description": "Edit text Seach for ios 16"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.textsearchv2ios16"
-        },
-{
-            "Name": "LS UI Star",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuistar1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuistar2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuistar.misaka",
-                  "Description": "Change Flash & Camera icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsuistar"
-        },
-{
-            "Name": "LS UI Rocket Ver.1",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket1-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket1-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuirocket1.misaka",
-                  "Description": "Change Flash & Camera icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsuirocket1"
-        },
-{
-            "Name": "LS UI Rocket Ver.2",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket2-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket2-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuirocket2.misaka",
-                  "Description": "Change Flash & Camera icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.lsuirocket2"
-        },
-{
-            "Name": "Font Bauhaus & LS 15",
-            "Description": "Change System Font and LS 15",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		{
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Bauhaus Font by Alex Man for all iOS; LS 15 for only iOS 15 - Now you can Advanced Setting: Only Font; Clock Font (LS 15) or both",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/bauhausfont.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/bauhausfont-2.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.bauhausfont.misaka",
-                  "Description": "Change System Font and LS 15"
-              },
-              {
-                "Version": "2.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.bauhausfont2.misaka",
-                "Description": "Update Advanced Setting"
-            }
-            ],
-            "PackageID": "com.dobabaophuc.bauhausfont"
-        },
-{
-            "Name": "Chained Apple Logo Respring",
-            "Description": "Change Respring Logo",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/respring.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Respring Theme",
-            "Caption": "Change Respring Logo - Only support Restart Backboard",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/logorespringChainedApple.mp4"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.logorespringChainedApple.misaka",
-                  "Description": "Change Respring Logo"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.logorespringChainedApple"
-        },
-        {
-            "Name": "No Face ID iCon",
-            "Description": "Remove Face ID iCon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LockScreen",
-            "Caption": "Remove Face ID iCon on your lock screen",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/nofaceidicon.jpg"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.nofaceidicon.misaka",
-                  "Description": "Remove Face ID iCon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.nofaceidicon"
-        },
-        {
-            "Name": "Lock Icon Doraemon",
-            "Description": "Change Face ID iCon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LockScreen",
-            "Caption": "Change Face ID iCon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/doremonlock.mp4"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.doremonlock.misaka",
-                  "Description": "Change Face ID iCon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.doremonlock"
-        },
-        {
-            "Name": "Lock Icon VietNamese Tank",
-            "Description": "Change Face ID iCon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LockScreen",
-            "Caption": "Change Face ID iCon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/tanklock.mp4"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.tanklock.misaka",
-                  "Description": "Change Face ID iCon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.tanklock"
-        },
-        {
-            "Name": "Lock Icon Good Cat",
-            "Description": "Change Face ID iCon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LockScreen",
-            "Caption": "by TehBae",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/goodcatlock.mp4"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.goodcatlock.misaka",
-                  "Description": "Change Face ID iCon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.goodcatlock"
-        },
-        {
-            "Name": "Clock AppIcon Mogu",
-            "Description": "Change Apple Clock icon app",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/clock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Themes",
-            "Caption": "Change Apple Clock icon app",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/moguclock.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.moguclock.misaka",
-                  "Description": "Change Apple Clock icon app"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.moguclock"
-        },
-        {
-            "Name": "Lock Icon Sharingan",
-            "Description": "Change Face ID icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LockScreen",
-            "Caption": "Change Face ID icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/sharinganlock.mp4"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.sharinganlock.misaka",
-                  "Description": "Change Face ID icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.sharinganlock"
-        },
-        {
-            "Name": "LS 16: LS Group 3",
-            "Description": "8 new clock fonts for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		                {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "The first clock by me 😍",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_3.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_3.misaka",
-                  "Description": "8 new clock fonts for ios 16"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.fontclock16_3"
-        },
-        {
-            "Name": "LS UI Wolf and Moon",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuiwolf1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuiwolf2.png"
-            ],
-			"Releases": [
-		{
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.wolflsui.misaka",
-                  "Description": "Change Flash & Camera icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.wolflsui"
-        },
-        {
-            "Name": "LS UI Nothing",
-            "Description": "Change Flash & Camera icon",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [
-                    {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "LS UI",
-            "Caption": "Change Flash & Camera icon",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "15.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-            "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuinothing1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuinothing2.png"
-            ],
-			"Releases": [
-		{
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.nothinglsui.misaka",
-                  "Description": "Change Flash & Camera icon"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.nothinglsui"
-        },
-        {
-            "Name": "LS 16: LS Group 4",
-            "Description": "8 new clock fonts for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		                {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Font clock by me 😍",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_4.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_4.misaka",
-                  "Description": "8 new clock fonts for ios 16"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.fontclock16_4"
-        },
-        {
-            "Name": "LS 16: LS Group 5",
-            "Description": "8 new clock fonts for ios 16",
-            "Author": {
-                "Label": "Phuc Do",
-                "Links": [              
-		                {
-                        "Label": "Phuc Do",
-                        "Link": "https://twitter.com/dobabaophuc"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
-            "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-            "Category": "Font",
-            "Caption": "Font clock by me 😍",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-              "MinIOSVersion_CustomLabel": "16.0",
-              "MaxIOSVersion_CustomLabel": "16.6b1",
-              "Build": [
-                "20G5026e"
-              ]
-            },
-		    "Screenshot": [
-                "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_5.png"],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_5.misaka",
-                  "Description": "8 new clock fonts for ios 16"
-              }
-            ],
-            "PackageID": "com.dobabaophuc.fontclock16_5"
-        },
-        {
-          "Name": "Glasklart Settings UI",
-          "Description": "Change Settings icons",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do - Ryanizleee - daddykool",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  },
-                  {
-                    "Label": "Ryanizleee",
-                    "Link": "https://twitter.com/Ryancyh"
-                  },
-                  {
-                    "Label": "daddykool",
-                    "Link": "https://twitter.com/daddykool666"
-                  }
-              ]
+    {
+      "Name": "Pulsar Control Center UI",
+      "Description": "Change Control Center icons",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
           },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/setting.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "Settings",
-          "Caption": "Glasklart Settings UI",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
+          {
+            "Label": "しまりん🍡🍨",
+            "Link": "https://twitter.com/straight_tamago"
           },
-          "Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/GlasklartSettingsUI-1.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/GlasklartSettingsUI-2.png", "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/GlasklartSettingsUI-3.png"
-          ],
-      "Releases": [
-      {
-                "Version": "1.0",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.GlasklartSettingsUI.misaka",
-                "Description": "Release"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.GlasklartSettingsUI"
-        },
-        {
-          "Name": "TrollStore Helper",
-          "Description": "Apple Tips app = TrollStore Helper 💡",
-          "accent":"#D28CB0",
-          "Author": {
-              "Label": "Phuc Do",
-              "Links": [
-                  {
-                      "Label": "Phuc Do",
-                      "Link": "https://twitter.com/dobabaophuc"
-                  }
-              ]
+          {
+            "Label": "htrowii",
+            "Link": "https://twitter.com/htrowii"
           },
-          "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/TrollStore.png",
-          "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
-          "Category": "TrollStore",
-          "Caption": "Only use this tweak after you have tried everything\n\n**Notes**:\n\n- You must download Tips app from AppStore\n\n- If it doesn't work or causes Tips app to crash, reboot your device and try again!\n\n- Kopen first if your device has KFD exploiting!",
-          "MinIOSVersion": "15.0",
-          "MaxIOSVersion": "16.6",
-          "AdditionalSupportedIOS": {
-            "MinIOSVersion_CustomLabel": "15.0",
-            "MaxIOSVersion_CustomLabel": "16.6b1",
-            "Build": [
-              "20G5026e"
-            ]
+          {
+            "Label": "YangJiii🍉",
+            "Link": "https://twitter.com/duongduong0908"
           },
+          {
+            "Label": "icons8",
+            "Link": "https://icons8.com"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Control Center",
+      "Caption": "Pulsar Control Center UI\n\nThank you for [しまりん🍡🍨](https://twitter.com/straight_tamago), [htrowii](https://twitter.com/htrowii), and [YangJiii🍉](https://twitter.com/duongduong0908)",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
       "Screenshot": [
-          "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/TrollIntaller.png"
-          ],
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC9.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC5.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC6.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC7.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/PulsarCC8.png"
+      ],
       "Releases": [
-      {
-                "Version": "2.0.8",
-                "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.TrollIntaller.misaka",
-                "Description": "Release"
-            }
-          ],
-          "PackageID": "com.dobabaophuc.TrollHelper"
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pulsarcc.misaka",
+          "Description": "Change Control Center icons"
         },
-]
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.pulsarcc2.0.misaka",
+          "Description": "Change Control Center icons"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.pulsarCC"
+    },
+    {
+      "Name": "DuoTone Control Center UI",
+      "Description": "Change Control Center icons",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "icons8",
+            "Link": "https://icons8.com"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Control Center",
+      "Caption": "Change Control Center UI",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccuifinal1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccuifinal2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1.misaka",
+          "Description": "Change Control Center icons"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_2.misaka",
+          "Description": "Change Control Center icons"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_3.misaka",
+          "Description": "Fix large icons"
+        },
+        {
+          "Version": "1.5",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_5.misaka",
+          "Description": "Add more icons: Shazam, Brightness, Screen Mirroring, Volume and more... Fix icon size."
+        },
+        {
+          "Version": "1.6",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter1_6.misaka",
+          "Description": "Fix Screen Mirroring iCon Didn't Work On iOs 15"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter2_0.misaka",
+          "Description": "Change Style; Add More iCons; Fix Bugs"
+        },
+        {
+          "Version": "Lastest",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenterfinal.misaka",
+          "Description": "Final Update - Change iCons color - Fix Bugs - More icons"
+        },
+        {
+          "Version": "2.5",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.controlcenter2_5.misaka",
+          "Description": "Update for KFD Devices"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.controlcenter1_6"
+    },
+    {
+      "Name": "Any iCloud (Remove iCloud Tool)",
+      "Description": "Remove iCloud Tool",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "YangJiii",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/setting.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Remove iCloud Tool\n\nThanks to YangJiii 🍉\n\n[Github](https://github.com/dobabaophuc1706/)",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/anyicloud1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/anyicloud2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.anyicloud.misaka",
+          "Description": "Remove iCloud Tool"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.anyicloud"
+    },
+    {
+      "Name": "AssistiveTouch Plampy",
+      "Description": "Bring AssistiveTouch into a new look",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "icons8",
+            "Link": "https://icons8.com"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ass.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Bring AssistiveTouch into a new look",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy5.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/assplampy6.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.assplampy.misaka",
+          "Description": "Bring AssistiveTouch into a new look"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.assplampy2.misaka",
+          "Description": "Update Icons"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.assplampy"
+    },
+    {
+      "Name": "Keyboard Theme",
+      "Description": "Change Keyboard Theme",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/keyboard.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/keyboard.gif",
+      "Category": "Keyboard",
+      "Caption": "Change Keyboard Theme. Now with change Keycaps, KeycapsPad, PhoneKeyCap\n\nSuper Clearing Caches and Customize Space text",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/keyboardspace.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/keyboardspace2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.keyboardspace.misaka",
+          "Description": "Change Keyboard Space text"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.keyboardtheme.misaka",
+          "Description": "Add Setting: Keycaps, KeycapsPad, PhoneKeyCaps with super clearing caches"
+        },
+        {
+          "Version": "2.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.keyboardtheme.misaka",
+          "Description": "Fix Auto Change Keycaps"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.keyboardspace"
+    },
+    {
+      "Name": "Lock Icon Manager",
+      "Description": "Customize Face ID iCon",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Now you can customize your Lock & UnLock icons with your images",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lockmanager.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lockmanager.misaka",
+          "Description": "Change Face ID iCon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lockmanager"
+    },
+    {
+      "Name": "CC Mod iOS 15",
+      "Description": "Change Control Center Layout",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Control Center",
+      "Caption": "Change Control Center Layout for IOS 15 - Open Advanced Setting and choose your favorite style",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-5.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-6.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios15.misaka",
+          "Description": "Change Control Center Layout"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios15_1.misaka",
+          "Description": "Update New Layouts"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.ccmodios15"
+    },
+    {
+      "Name": "CC Mod iOS 16",
+      "Description": "Change Control Center Layout",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/cc.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Control Center",
+      "Caption": "Change Control Center Layout for IOS 16 - Open Advanced Setting and choose your favorite style",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-4.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-5.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/ccmodios16-6.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16.misaka",
+          "Description": "Change Control Center Layout"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16.misaka",
+          "Description": "Update New Setting"
+        },
+        {
+          "Version": "3.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16_2.misaka",
+          "Description": "Update New Layout"
+        },
+        {
+          "Version": "4.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.ccmodios16_3.misaka",
+          "Description": "Update New Layouts"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.ccmodios16"
+    },
+    {
+      "Name": "LS UI Manager IOS 15",
+      "Description": "Change Flash & Camera icon",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon; Please choose the correct Tweak for your IOS Version",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuimanager15.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager15.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager15.misaka",
+          "Description": "Fix"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuimanager15"
+    },
+    {
+      "Name": "LS UI Manager IOS 16",
+      "Description": "Change Flash & Camera icon",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon; Please choose the correct Tweak for your IOS Version",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuimanager16.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager16.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuimanager16.misaka",
+          "Description": "Fix"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuimanager16"
+    },
+    {
+      "Name": "LS KgSecondChances",
+      "Description": "Bring to you new Font Clock",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "LS KgSecondChances",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSKgSecondChances.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSKgSecondChances.misaka",
+          "Description": "Change Clock Font"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSKgSecondChances"
+    },
+    {
+      "Name": "LS Cimero Color Pro",
+      "Description": "Color Clock Font",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "A new style of clock font for ios 16\n\n🎉 Happy New Year! 🎉\n\nFollow my Twitter: [Phuc Do](https://twitter.com/dobabaophuc)\n\n🎊00:00 01-01-2024🎊",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSCimeroPro.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSCimeroPro.misaka",
+          "Description": "Release"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSCimeroPro"
+    },
+    {
+      "Name": "LS Bendigo",
+      "Description": "Bring to you new Font Clock",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "LS Bendigo",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSBendigo.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.LSBendigo.misaka",
+          "Description": "Change Clock Font"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSBendigo"
+    },
+    {
+      "Name": "LS UI Pikachu",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuipikachu2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuipikachu.misaka",
+          "Description": "Apply for all ios from 15.0 to 16.7"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuipikachu"
+    },
+    {
+      "Name": "LS UI Sharingan",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuisharingan2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuisharingan.misaka",
+          "Description": "Apply for all ios from 15.0 to 16.7"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuisharingan"
+    },
+    {
+      "Name": "LS UI Goku & Vegeta",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuigokuvegeta2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuigokuvegeta.misaka",
+          "Description": "Apply for all ios from 15.0 to 16.7"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuigokuvegeta"
+    },
+    {
+      "Name": "Text Search (ios 16)",
+      "Description": "Edit text Seach for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/search.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Setting",
+      "Caption": "Edit text Search for ios 16",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch3.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearch4.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
+          "Description": "Edit text Seach for ios 16"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
+          "Description": "Three More Options"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearch.misaka",
+          "Description": "New UI"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.textsearch"
+    },
+    {
+      "Name": "Font Futura",
+      "Description": "Change System Font",
+      "Author": {
+        "Label": "p0s3id0n, Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Futura Font remade by @p0s3id0n",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/futurafont.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.futurafont.misaka",
+          "Description": "Change System Font"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.futurafont"
+    },
+    {
+      "Name": "Font Cocon Pro",
+      "Description": "Change System Font",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Font by Alex Man",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/coconprofont.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.coconprofont.misaka",
+          "Description": "Change System Font"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.yenniefont"
+    },
+    {
+      "Name": "LS 16: LS Group 1",
+      "Description": "Change Clock Font for ios 16",
+      "Author": {
+        "Label": "p0s3id0n, Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Clock Font by @p0s3id0n",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_1.misaka",
+          "Description": "Change Clock Font for ios 16"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.fontclock16_1"
+    },
+    {
+      "Name": "LS UI 2",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui2-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui2-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui2.misaka",
+          "Description": "Apply for all ios from 15.0 to 16.7"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsui2"
+    },
+    {
+      "Name": "LS UI 1",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui1-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui1-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui1.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui1.misaka",
+          "Description": "Apply for all ios from 15.0 to 16.7"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsui1"
+    },
+    {
+      "Name": "Lock Icon SonGoku",
+      "Description": "Change Face ID icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Change Face ID icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/songokulock.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.songokulock.misaka",
+          "Description": "Change Face ID icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.songokulock"
+    },
+    {
+      "Name": "Font Bai Jamjuree",
+      "Description": "Change System Font",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Font by Alex Man",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/baijamjureefont.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.baijamjureefont.misaka",
+          "Description": "Change System Font"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.kyotofont"
+    },
+    {
+      "Name": "LS 16: LS Group 2",
+      "Description": "Change Clock Font for ios 16",
+      "Author": {
+        "Label": "p0s3id0n, Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Clock Font by @p0s3id0n",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_2.misaka",
+          "Description": "Change Clock Font for ios 16"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.fontclock16_2"
+    },
+    {
+      "Name": "Font Geogrotesque",
+      "Description": "Change System Font",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Font by Alex Man",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/geogrotesquefont.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.geogrotesquefont.misaka",
+          "Description": "Change System Font"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.geogrotesquefont"
+    },
+    {
+      "Name": "Emoji Facebook",
+      "Description": "Change Emoji Icons",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/emoji.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Emoji",
+      "Caption": "Change Emoji Icons",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojifacebook.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojifacebook.misaka",
+          "Description": "Change Emoji Icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.emojifacebook"
+    },
+    {
+      "Name": "Emoji Joy Pixels Decal",
+      "Description": "Change Emoji Icons",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/emoji.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Emoji",
+      "Caption": "Change Emoji Icons",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojijoypixelsdecal.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojijoypixelsdecal.misaka",
+          "Description": "Change Emoji Icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.emojijoypixelsdecal"
+    },
+    {
+      "Name": "Emoji Blob",
+      "Description": "Change Emoji Icons",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/emoji.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Emoji",
+      "Caption": "Change Emoji Icons",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/emojiblob.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.emojiblob.misaka",
+          "Description": "Change Emoji Icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.emojiblob"
+    },
+    {
+      "Name": "LowBattery Notification (ios 16)",
+      "Description": "Customize LowBattery Notification for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/notication.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Custom",
+      "Caption": "Customize LowBattery Notification",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/batterynotication1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/batterynotication2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.batterynoticationios16.misaka",
+          "Description": "Customize LowBattery Notification"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.batterynoticationios16-1.misaka",
+          "Description": "Fix bug, Update UI"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.batterynoticationios16"
+    },
+    {
+      "Name": "Change 3G 4G LTE 5G (ios 16)",
+      "Description": "Customize 3G 4G LTE text for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/network.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Custom",
+      "Caption": "Customize 3G 4G LTE 5G text for ios 16",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/change3g4glte5g.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/change3g4glte5g-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.change3g4glte.misaka",
+          "Description": "Customize 3G 4G LTE text for ios 16"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.change3g4glte5g.misaka",
+          "Description": "New UI + 5G text"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.change3g4glte"
+    },
+    {
+      "Name": "LS UI 3",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui3-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsui3-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui3.misaka",
+          "Description": "Change Flash & Camera icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsui3.misaka",
+          "Description": "Apply for all ios from 15.0 to 16.7"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsui3"
+    },
+    {
+      "Name": "Text Search V2 (ios 16)",
+      "Description": "Edit text Seach and Siri's Suggestion for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/search.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Setting",
+      "Caption": "Edit text Seach and Siri Suggestion for ios 16",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/textsearchv2ios16.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.textsearchv2ios16.misaka",
+          "Description": "Edit text Seach for ios 16"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.textsearchv2ios16"
+    },
+    {
+      "Name": "LS UI Star",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuistar1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuistar2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuistar.misaka",
+          "Description": "Change Flash & Camera icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuistar"
+    },
+    {
+      "Name": "LS UI Rocket Ver.1",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket1-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket1-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuirocket1.misaka",
+          "Description": "Change Flash & Camera icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuirocket1"
+    },
+    {
+      "Name": "LS UI Rocket Ver.2",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket2-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuirocket2-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.lsuirocket2.misaka",
+          "Description": "Change Flash & Camera icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.lsuirocket2"
+    },
+    {
+      "Name": "Font Bauhaus & LS 15",
+      "Description": "Change System Font and LS 15",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/font.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Bauhaus Font by Alex Man for all iOS; LS 15 for only iOS 15 - Now you can Advanced Setting: Only Font; Clock Font (LS 15) or both",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/bauhausfont.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/bauhausfont-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.bauhausfont.misaka",
+          "Description": "Change System Font and LS 15"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.bauhausfont2.misaka",
+          "Description": "Update Advanced Setting"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.bauhausfont"
+    },
+    {
+      "Name": "Chained Apple Logo Respring",
+      "Description": "Change Respring Logo",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/respring.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Respring Theme",
+      "Caption": "Change Respring Logo - Only support Restart Backboard",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/logorespringChainedApple.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.logorespringChainedApple.misaka",
+          "Description": "Change Respring Logo"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.logorespringChainedApple"
+    },
+    {
+      "Name": "No Face ID iCon",
+      "Description": "Remove Face ID iCon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Remove Face ID iCon on your lock screen",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/nofaceidicon.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.nofaceidicon.misaka",
+          "Description": "Remove Face ID iCon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.nofaceidicon"
+    },
+    {
+      "Name": "Lock Icon Doraemon",
+      "Description": "Change Face ID iCon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Change Face ID iCon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/doremonlock.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.doremonlock.misaka",
+          "Description": "Change Face ID iCon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.doremonlock"
+    },
+    {
+      "Name": "Lock Icon VietNamese Tank",
+      "Description": "Change Face ID iCon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Change Face ID iCon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/tanklock.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.tanklock.misaka",
+          "Description": "Change Face ID iCon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.tanklock"
+    },
+    {
+      "Name": "Lock Icon Good Cat",
+      "Description": "Change Face ID iCon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "by TehBae",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/goodcatlock.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.goodcatlock.misaka",
+          "Description": "Change Face ID iCon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.goodcatlock"
+    },
+    {
+      "Name": "Clock AppIcon Mogu",
+      "Description": "Change Apple Clock icon app",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/clock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Themes",
+      "Caption": "Change Apple Clock icon app",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/moguclock.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.moguclock.misaka",
+          "Description": "Change Apple Clock icon app"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.moguclock"
+    },
+    {
+      "Name": "Lock Icon Sharingan",
+      "Description": "Change Face ID icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lock.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LockScreen",
+      "Caption": "Change Face ID icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/sharinganlock.mp4"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.sharinganlock.misaka",
+          "Description": "Change Face ID icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.sharinganlock"
+    },
+    {
+      "Name": "LS 16: LS Group 3",
+      "Description": "8 new clock fonts for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "The first clock by me 😍",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_3.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_3.misaka",
+          "Description": "8 new clock fonts for ios 16"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.fontclock16_3"
+    },
+    {
+      "Name": "LS UI Wolf and Moon",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuiwolf1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuiwolf2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.wolflsui.misaka",
+          "Description": "Change Flash & Camera icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.wolflsui"
+    },
+    {
+      "Name": "LS UI Nothing",
+      "Description": "Change Flash & Camera icon",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/lsui.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "LS UI",
+      "Caption": "Change Flash & Camera icon",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuinothing1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/lsuinothing2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.nothinglsui.misaka",
+          "Description": "Change Flash & Camera icon"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.nothinglsui"
+    },
+    {
+      "Name": "LS 16: LS Group 4",
+      "Description": "8 new clock fonts for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Font clock by me 😍",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_4.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_4.misaka",
+          "Description": "8 new clock fonts for ios 16"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.fontclock16_4"
+    },
+    {
+      "Name": "LS 16: LS Group 5",
+      "Description": "8 new clock fonts for ios 16",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "Font clock by me 😍",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "16.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/fontclock16_5.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.fontclock16_5.misaka",
+          "Description": "8 new clock fonts for ios 16"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.fontclock16_5"
+    },
+    {
+      "Name": "Glasklart Settings UI",
+      "Description": "Change Settings icons",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do - Ryanizleee - daddykool",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          },
+          {
+            "Label": "Ryanizleee",
+            "Link": "https://twitter.com/Ryancyh"
+          },
+          {
+            "Label": "daddykool",
+            "Link": "https://twitter.com/daddykool666"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/setting.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Settings",
+      "Caption": "Glasklart Settings UI",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/GlasklartSettingsUI-1.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/GlasklartSettingsUI-2.png",
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/GlasklartSettingsUI-3.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.GlasklartSettingsUI.misaka",
+          "Description": "Release"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.GlasklartSettingsUI"
+    },
+    {
+      "Name": "TrollStore Helper",
+      "Description": "Apple Tips app = TrollStore Helper 💡",
+      "accent": "#D28CB0",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/TrollStore.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "TrollStore",
+      "Caption": "Only use this tweak after you have tried everything\n\n**Notes**:\n\n- You must download Tips app from AppStore\n\n- If it doesn't work or causes Tips app to crash, reboot your device and try again!\n\n- Kopen first if your device has KFD exploiting!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/TrollIntaller.png"
+      ],
+      "Releases": [
+        {
+          "Version": "2.0.8",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/com.dobabaophuc.TrollIntaller.misaka",
+          "Description": "Release"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.TrollHelper"
+    }
+  ]
 }
