@@ -84,7 +84,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSChristmas.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSChristmas.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSChristmas1.png",
                 "Images/RepoImages/LSChristmas2.png",
@@ -107,7 +107,7 @@
             "category": "Lock",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.ChristmasLock.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.ChristmasLock.purekfd",
             "screenshots": [
                 "Images/RepoImages/ChristmasLock1.png",
                 "Images/RepoImages/ChristmasLock2.png"
@@ -124,7 +124,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSUIChristmas.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSUIChristmas.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSUIChristmas1.png",
                 "Images/RepoImages/LSUIChristmas2.png"
@@ -141,7 +141,7 @@
             "category": "Passcode Theme",
             "icon": "Images/Logo/dialer.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.PasscodeThemeGalaxyX.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.PasscodeThemeGalaxyX.purekfd",
             "screenshots": [
                 "Images/RepoImages/PasscodeThemeGalaxyX-1.png",
                 "Images/RepoImages/PasscodeThemeGalaxyX-2.png"
@@ -158,7 +158,7 @@
             "category": "PiP",
             "icon": "Images/Logo/pip.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.pipsttSysInfo.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.pipsttSysInfo.purekfd",
             "screenshots": [
                 "Images/RepoImages/pipttSysInfo-b.png",
                 "Images/RepoImages/pipttSysInfo-p.png",
@@ -178,7 +178,7 @@
             "category": "PiP",
             "icon": "Images/Logo/pip.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.pipstt1.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.pipstt1.purekfd",
             "screenshots": [
                 "Images/RepoImages/pipstt1.png"
             ],
@@ -194,7 +194,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSHalloween.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSHalloween.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSHalloween1.png",
                 "Images/RepoImages/LSHalloween2.png",
@@ -217,7 +217,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSUIHalloween.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSUIHalloween.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSUIHalloween1.png",
                 "Images/RepoImages/LSUIHalloween2.png"
@@ -234,7 +234,7 @@
             "category": "Control Center",
             "icon": "Images/Logo/cc.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.DecoCC.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.DecoCC.purekfd",
             "screenshots": [
                 "Images/RepoImages/DecoCC-1.png",
                 "Images/RepoImages/DecoCC-5.png",
@@ -255,7 +255,7 @@
             "category": "Control Center",
             "icon": "Images/Logo/cc.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.controlcenter1_6.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.controlcenter1_6.purekfd",
             "screenshots": [
                 "Images/RepoImages/ccuifinal1.png",
                 "Images/RepoImages/ccuifinal2.png"
@@ -272,7 +272,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/setting.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.anyicloud.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.anyicloud.purekfd",
             "screenshots": [
                 "Images/RepoImages/anyicloud1.png",
                 "Images/RepoImages/anyicloud2.png"
@@ -289,7 +289,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/ass.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.assplampy.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.assplampy.purekfd",
             "screenshots": [
                 "Images/RepoImages/assplampy1.png",
                 "Images/RepoImages/assplampy2.png",
@@ -310,7 +310,7 @@
             "category": "Keyboard",
             "icon": "Images/Logo/keyboard.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.keyboardspace.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.keyboardspace.purekfd",
             "screenshots": [
                 "Images/RepoImages/keyboardspace.png",
                 "Images/RepoImages/keyboardspace2.png"
@@ -327,7 +327,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lockmanager.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lockmanager.purekfd",
             "screenshots": [
                 "Images/RepoImages/lockmanager.png"
             ],
@@ -343,7 +343,7 @@
             "category": "Control Center",
             "icon": "Images/Logo/cc.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.ccmodios16.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.ccmodios16.purekfd",
             "screenshots": [
                 "Images/RepoImages/ccmodios16.png",
                 "Images/RepoImages/ccmodios16-2.png",
@@ -364,7 +364,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuimanager15.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuimanager15.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuimanager15.png"
             ],
@@ -380,7 +380,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuimanager16.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuimanager16.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuimanager16.png"
             ],
@@ -396,7 +396,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSKgSecondChances.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSKgSecondChances.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSKgSecondChances.png"
             ],
@@ -412,7 +412,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSCimeroPro.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSCimeroPro.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSCimeroPro.png"
             ],
@@ -428,7 +428,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSAbeloneColor.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSAbeloneColor.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSAbeloneColor.png"
             ],
@@ -444,7 +444,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.LSBendigo.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.LSBendigo.purekfd",
             "screenshots": [
                 "Images/RepoImages/LSBendigo.png"
             ],
@@ -460,7 +460,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuipikachu.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuipikachu.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuipikachu1.png",
                 "Images/RepoImages/lsuipikachu2.png"
@@ -477,7 +477,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuisharingan.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuisharingan.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuisharingan1.png",
                 "Images/RepoImages/lsuisharingan2.png"
@@ -494,7 +494,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuigokuvegeta.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuigokuvegeta.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuigokuvegeta1.png",
                 "Images/RepoImages/lsuigokuvegeta2.png"
@@ -511,7 +511,7 @@
             "category": "Setting",
             "icon": "Images/Logo/search.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.textsearch.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.textsearch.purekfd",
             "screenshots": [
                 "Images/RepoImages/textsearch.png",
                 "Images/RepoImages/textsearch2.png",
@@ -530,7 +530,7 @@
             "category": "Font",
             "icon": "Images/Logo/font.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.futurafont.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.futurafont.purekfd",
             "screenshots": [
                 "Images/RepoImages/futurafont.png"
             ],
@@ -546,7 +546,7 @@
             "category": "Font",
             "icon": "Images/Logo/font.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.yenniefont.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.yenniefont.purekfd",
             "screenshots": [
                 "Images/RepoImages/coconprofont.png"
             ],
@@ -562,7 +562,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.fontclock16_1.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.fontclock16_1.purekfd",
             "screenshots": [
                 "Images/RepoImages/fontclock16_1.png"
             ],
@@ -578,7 +578,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsui2.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsui2.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsui2-1.png",
                 "Images/RepoImages/lsui2-2.png"
@@ -595,7 +595,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsui1.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsui1.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsui1-1.png",
                 "Images/RepoImages/lsui1-2.png"
@@ -612,7 +612,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.songokulock.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.songokulock.purekfd",
             "screenshots": [
                 "Images/RepoImages/songokulock.jpg"
             ],
@@ -628,7 +628,7 @@
             "category": "Font",
             "icon": "Images/Logo/font.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.kyotofont.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.kyotofont.purekfd",
             "screenshots": [
                 "Images/RepoImages/baijamjureefont.png"
             ],
@@ -644,7 +644,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.fontclock16_2.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.fontclock16_2.purekfd",
             "screenshots": [
                 "Images/RepoImages/fontclock16_2.png"
             ],
@@ -660,7 +660,7 @@
             "category": "Font",
             "icon": "Images/Logo/font.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.geogrotesquefont.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.geogrotesquefont.purekfd",
             "screenshots": [
                 "Images/RepoImages/geogrotesquefont.png"
             ],
@@ -676,7 +676,7 @@
             "category": "Emoji",
             "icon": "Images/Logo/emoji.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.emojifacebook.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.emojifacebook.purekfd",
             "screenshots": [
                 "Images/RepoImages/emojifacebook.png"
             ],
@@ -692,7 +692,7 @@
             "category": "Emoji",
             "icon": "Images/Logo/emoji.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.emojijoypixelsdecal.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.emojijoypixelsdecal.purekfd",
             "screenshots": [
                 "Images/RepoImages/emojijoypixelsdecal.png"
             ],
@@ -708,7 +708,7 @@
             "category": "Emoji",
             "icon": "Images/Logo/emoji.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.emojiblob.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.emojiblob.purekfd",
             "screenshots": [
                 "Images/RepoImages/emojiblob.png"
             ],
@@ -724,7 +724,7 @@
             "category": "Custom",
             "icon": "Images/Logo/network.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.change3g4glte.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.change3g4glte.purekfd",
             "screenshots": [
                 "Images/RepoImages/change3g4glte5g.png",
                 "Images/RepoImages/change3g4glte5g-2.png"
@@ -741,7 +741,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsui3.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsui3.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsui3-1.png",
                 "Images/RepoImages/lsui3-2.png"
@@ -758,7 +758,7 @@
             "category": "Setting",
             "icon": "Images/Logo/search.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.textsearchv2ios16.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.textsearchv2ios16.purekfd",
             "screenshots": [
                 "Images/RepoImages/textsearchv2ios16.png"
             ],
@@ -774,7 +774,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuistar.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuistar.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuistar1.png",
                 "Images/RepoImages/lsuistar2.png"
@@ -791,7 +791,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuirocket1.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuirocket1.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuirocket1-1.png",
                 "Images/RepoImages/lsuirocket1-2.png"
@@ -808,7 +808,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.lsuirocket2.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.lsuirocket2.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuirocket2-1.png",
                 "Images/RepoImages/lsuirocket2-2.png"
@@ -825,7 +825,7 @@
             "category": "Font",
             "icon": "Images/Logo/font.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.bauhausfont.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.bauhausfont.purekfd",
             "screenshots": [
                 "Images/RepoImages/bauhausfont.png",
                 "Images/RepoImages/bauhausfont-2.png"
@@ -842,7 +842,7 @@
             "category": "Respring Theme",
             "icon": "Images/Logo/respring.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.logorespringChainedApple.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.logorespringChainedApple.purekfd",
             "screenshots": [
                 "Images/RepoImages/logorespringChainedApple.mp4"
             ],
@@ -858,7 +858,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.nofaceidicon.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.nofaceidicon.purekfd",
             "screenshots": [
                 "Images/RepoImages/nofaceidicon.jpg"
             ],
@@ -874,7 +874,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.doremonlock.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.doremonlock.purekfd",
             "screenshots": [
                 "Images/RepoImages/doremonlock.mp4"
             ],
@@ -890,7 +890,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.tanklock.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.tanklock.purekfd",
             "screenshots": [
                 "Images/RepoImages/tanklock.mp4"
             ],
@@ -906,7 +906,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.goodcatlock.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.goodcatlock.purekfd",
             "screenshots": [
                 "Images/RepoImages/goodcatlock.mp4"
             ],
@@ -922,7 +922,7 @@
             "category": "Themes",
             "icon": "Images/Logo/clock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.mogulockicon.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.mogulockicon.purekfd",
             "screenshots": [
                 "Images/RepoImages/moguclock.png"
             ],
@@ -938,7 +938,7 @@
             "category": "LockScreen",
             "icon": "Images/Logo/lock.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.sharinganlock.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.sharinganlock.purekfd",
             "screenshots": [
                 "Images/RepoImages/sharinganlock.mp4"
             ],
@@ -954,7 +954,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.fontclock16_3.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.fontclock16_3.purekfd",
             "screenshots": [
                 "Images/RepoImages/fontclock16_3.png"
             ],
@@ -970,7 +970,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.wolflsui.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.wolflsui.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuiwolf1.png",
                 "Images/RepoImages/lsuiwolf2.png"
@@ -987,7 +987,7 @@
             "category": "LS UI",
             "icon": "Images/Logo/lsui.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.nothinglsui.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.nothinglsui.purekfd",
             "screenshots": [
                 "Images/RepoImages/lsuinothing1.png",
                 "Images/RepoImages/lsuinothing2.png"
@@ -1004,7 +1004,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.fontclock16_4.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.fontclock16_4.purekfd",
             "screenshots": [
                 "Images/RepoImages/fontclock16_4.png"
             ],
@@ -1020,7 +1020,7 @@
             "category": "Font",
             "icon": "Images/Logo/ls.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.fontclock16_5.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.fontclock16_5.purekfd",
             "screenshots": [
                 "Images/RepoImages/fontclock16_5.png"
             ],
@@ -1036,7 +1036,7 @@
             "category": "Settings",
             "icon": "Images/Logo/setting.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.GlasklartSettingsUI.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.GlasklartSettingsUI.purekfd",
             "screenshots": [
                 "Images/RepoImages/GlasklartSettingsUI-1.png",
                 "Images/RepoImages/GlasklartSettingsUI-2.png",
@@ -1054,7 +1054,7 @@
             "category": "TrollStore",
             "icon": "Images/Logo/TrollStore.png",
             "banner": "Images/Banner/2024.gif",
-            "path": "Files/com.dobabaophuc.TrollHelper.purekfd",
+            "path": "Files/PureKFD/com.dobabaophuc.TrollHelper.purekfd",
             "screenshots": [
                 "Images/RepoImages/TrollIntaller.png"
             ],
