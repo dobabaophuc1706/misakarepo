@@ -38,7 +38,7 @@
   
 > IOS 15.0 **->** IOS 15.7.1 (MDC)
 
-> IOS 16.0 **->** IOS 16.6b1 (KFD)
+> IOS 16.0 **->** IOS 16.6.1 (KFD)
 
 > All IOS (PiP Tweaks)
 
