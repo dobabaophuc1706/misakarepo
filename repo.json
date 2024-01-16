@@ -1031,7 +1031,7 @@
       ],
       "PackageID": "com.dobabaophuc.LSAbeloneColor"
     },
-        {
+    {
       "Name": "LS Bauhaus Color",
       "Description": "Color Clock Font",
       "Author": {
@@ -1060,6 +1060,36 @@
         }
       ],
       "PackageID": "com.dobabaophuc.LSBauhausColor"
+    },
+    {
+      "Name": "LS Dino Color",
+      "Description": "Color Clock Font",
+      "Author": {
+        "Label": "Phuc Do",
+        "Links": [
+          {
+            "Label": "Phuc Do",
+            "Link": "https://twitter.com/dobabaophuc"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Logo/ls.png",
+      "HeaderImage": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/Banner/2024.gif",
+      "Category": "Font",
+      "Caption": "A new style of clock font for ios 16\n\nFollow my Twitter: [Phuc Do](https://twitter.com/dobabaophuc)",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "16.6.1",
+      "Screenshot": [
+        "https://github.com/dobabaophuc1706/misakarepo/raw/main/Images/RepoImages/LSDinoColor.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dobabaophuc1706/misakarepo/raw/main/Files/Misaka/com.dobabaophuc.LSDinoColor.misaka",
+          "Description": "Release"
+        }
+      ],
+      "PackageID": "com.dobabaophuc.LSDinoColor"
     },
     {
       "Name": "LS Bendigo",
