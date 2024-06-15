@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<caml xmlns="http://www.apple.com/CoreAnimation/1.0">
+	<CALayer position="-0.5 0">
+		<sublayers>
+			<CALayer id="#1" bounds="0 0 40 40" position="0 0">
+				<contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/pcmh.png"/>
+			</CALayer>
+			<CALayer id="#2" bounds="0 0 40 40" position="0 0">
+				<contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/pcmh.png"/>
+			</CALayer>
+		</sublayers>
+		<states>
+			<LKState name="off">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="opacity">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+			<LKState name="on" basedOn="off">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="opacity">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#1" keyPath="transform.rotation.z">
+						<value type="real" value="-180"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="transform.rotation.z">
+						<value type="real" value="0"/>
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+		</states>
+		<stateTransitions>
+			<LKStateTransition fromState="*" toState="on">
+				<elements>
+					<LKStateTransitionElement key="transform" targetId="#1">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="transform" targetId="#2">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="on" toState="*">
+				<elements>
+					<LKStateTransitionElement key="transform" targetId="#1">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="transform" targetId="#2">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="*" toState="off">
+				<elements>
+					<LKStateTransitionElement key="transform" targetId="#1">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="transform" targetId="#2">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="off" toState="*">
+				<elements>
+					<LKStateTransitionElement key="transform" targetId="#1">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="transform" targetId="#2">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+		</stateTransitions>
+		<animations />
+	</CALayer>
+</caml>

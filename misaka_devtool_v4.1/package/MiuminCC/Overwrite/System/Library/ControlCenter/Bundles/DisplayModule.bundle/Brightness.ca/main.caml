@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<caml xmlns="http://www.apple.com/CoreAnimation/1.0">
+  <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 40 40" contentsFormat="RGBA8" hidden="0" name="volglyph" position="8 12" transform="scale(0.6, 0.6, 0.6)">
+    <backgroundColor opacity="0" value="0.9797 0.06809 0.3118 0"/>
+    <sublayers>
+      <CATransformLayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 50 50" contentsFormat="RGBA8" geometryFlipped="1" name="volume" position="24 24" transform="scale(0.46, 0.46, 1)">
+	<sublayers>
+	  <CATransformLayer id="#2" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 50 50" contentsFormat="RGBA8" name="vol1" position="25 25" transform="">
+	    <sublayers>
+	      <CATransformLayer id="#10" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 50 50" contentsFormat="RGBA8" name="vol2" position="25 25" transform="">
+		<sublayers>
+		  <CAShapeLayer id="#4" fillColor="0 0 0" lineWidth="0" path="43.79 3.65 m 42.13 4.58 39.97 6.03 39.14 6.96 c 38.31 7.78 36.66 9.13 35.53 9.75 c 34.39 10.47 30.88 11.4 27.78 11.81 c 24.68 12.12 20.86 13.26 19.31 14.19 c 17.76 15.11 15.8 17.08 14.97 18.52 c 14.15 19.97 13.12 23.69 12.81 26.78 c 12.39 29.88 11.46 33.39 10.74 34.53 c 10.02 35.67 8.26 38.04 6.71 39.69 c 5.27 41.34 3.72 44.44 3.41 46.4 c 3.1 48.37 3.1 51.46 3.41 53.12 c 3.72 54.77 5.27 57.66 6.71 59.31 c 8.26 60.97 10.02 63.34 10.74 64.48 c 11.46 65.61 12.39 69.12 12.81 72.22 c 13.12 75.32 14.15 79.04 14.97 80.48 c 15.8 81.93 17.76 83.89 19.31 84.82 c 20.86 85.75 24.68 86.89 27.78 87.2 c 30.88 87.61 34.39 88.54 35.53 89.26 c 36.66 89.98 39.04 91.74 40.69 93.29 c 42.34 94.73 45.23 96.28 46.89 96.59 c 48.54 96.9 51.64 96.9 53.6 96.59 c 55.56 96.28 58.66 94.73 60.31 93.29 c 61.96 91.74 64.34 89.98 65.47 89.26 c 66.61 88.54 70.12 87.61 73.22 87.2 c 76.32 86.89 80.14 85.75 81.69 84.82 c 83.24 83.89 85.2 81.93 86.03 80.48 c 86.85 79.04 87.88 75.32 88.19 72.22 c 88.61 69.12 89.54 65.61 90.26 64.48 c 90.98 63.34 92.74 60.97 94.29 59.31 c 95.73 57.66 97.28 54.56 97.59 52.6 c 97.9 50.64 97.9 47.54 97.59 45.89 c 97.28 44.24 95.73 41.34 94.29 39.69 c 92.74 38.04 90.98 35.67 90.26 34.53 c 89.54 33.39 88.61 29.88 88.19 26.78 c 87.88 23.69 86.85 19.97 86.03 18.52 c 85.2 17.08 83.24 15.11 81.69 14.19 c 80.14 13.26 76.32 12.12 73.22 11.81 c 70.12 11.4 66.61 10.47 65.47 9.75 c 64.34 9.02 62.27 7.37 60.83 6.13 c 59.38 4.89 57.21 3.45 55.87 2.93 c 54.63 2.41 52.05 2 50.19 2 c 48.43 2 45.44 2.72 43.79 3.65 c h" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" anchorPoint="9.5 0.5" bounds="0 0 1 15" contentsFormat="RGBA8" name="low-wave" opacity="0.3" position="23.5 25" transform=""/>
+		  <CAShapeLayer id="#3" fillColor="1 1 1" lineWidth="0" path="42.65 23.38 m 39.76 24.41 35.53 26.68 33.36 28.44 c 31.08 30.19 27.88 34.32 26.23 37.63 c 23.86 42.27 23.13 45.06 23.13 49.5 c 23.13 53.94 23.86 56.73 26.23 61.38 c 28.19 65.3 30.98 68.71 33.98 70.98 c 36.56 72.84 41.21 75.22 44.3 76.04 c 48.85 77.28 51.02 77.38 55.15 76.46 c 58.04 75.84 62.48 73.98 65.27 72.22 c 68.06 70.47 71.46 67.06 73.22 64.17 c 74.98 61.48 76.83 56.94 77.45 54.15 c 78.38 50.02 78.28 47.85 77.04 43.31 c 76.22 40.21 73.84 35.56 71.98 32.98 c 69.81 30.09 66.4 27.3 62.79 25.44 c 59.79 23.89 55.15 22.45 52.57 22.14 c 49.57 21.72 46.06 22.24 42.65 23.38 c h" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" anchorPoint="13.5 0.5" bounds="0 0 1 15" contentsFormat="RGBA8" name="mid-wave" opacity="1" position="27.5 25" transform=""/>
+		  <CATransformLayer id="#7" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 50 50" contentsFormat="RGBA8" hidden="0" name="parent of dynamic speaker" position="25 25">
+		    <sublayers>
+		      <CAShapeLayer fillColor="1 1 1" lineWidth="0" path="7.4 29 m 3 29 l 1.9 29 1 28.1 1 27 c 1 21 l 1 19.9 1.9 19 3 19 c 7.4 19 l 7.6 19 7.9 18.9 8.1 18.7 c 14 13.3 l 14.8 12.6 15.9 13.2 15.9 14.2 c 15.9 33.7 l 15.9 34.8 14.7 35.3 14 34.6 c 8.1 29.2 l 7.9 29.1 7.7 29 7.4 29 c h" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" contentsFormat="RGBA8" hidden="0" name="dynamic speaker v2" position="13.733799934387 12.903800010681" transform="scale(0, 0.503, 1)">
+			<sublayers>
+			  <CALayer id="#6" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" anchorPoint="0.5 1" backgroundColor="1 1 1" bounds="0 0 2.599999904633 2.599999904633" contentsFormat="RGBA8" cornerRadius="1.299999952316" hidden="1" name="strike hole" position="-2.23140001297 11.291299819946" transform="rotate(130deg) scale(1.988, 1.988, 1)">
+			    <compositingFilter type="CAFilter" filter="destOut" name="destOut"/>
+			    <animations/>
+			  </CALayer>
+			</sublayers>
+		      </CAShapeLayer>
+		    </sublayers>
+		    <animations/>
+		  </CATransformLayer>
+		</sublayers>
+	      </CATransformLayer>
+	    </sublayers>
+	  </CATransformLayer>
+	</sublayers>
+      </CATransformLayer>
+    </sublayers>
+	</CALayer>
+</caml>

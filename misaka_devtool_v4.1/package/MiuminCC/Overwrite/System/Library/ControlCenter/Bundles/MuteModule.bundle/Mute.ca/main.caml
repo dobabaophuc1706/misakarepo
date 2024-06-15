@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<caml xmlns="http://www.apple.com/CoreAnimation/1.0">
+	<CALayer position="-0.5 0">
+		<sublayers>
+            <CALayer id="#1" bounds="0 0 40 40" position="0 0">
+                <contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/ringer_on1.png"/>
+                <animations>
+                    <animation type="CAKeyframeAnimation" keyPath="opacity" repeatCount="Inf" duration="2"> 
+                        <values>
+                            <real value="1" />
+                            <real value="0" />
+                            <real value="1" />
+		        		</values>
+                    </animation>
+                </animations>
+            </CALayer>
+            <CALayer id="#2" bounds="0 0 40 40" position="0 0">
+                <contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/ringer_on2.png"/>
+                <animations>
+                    <animation type="CAKeyframeAnimation" keyPath="opacity" repeatCount="Inf" duration="2"> 
+                        <values>
+                            <real value="0" />
+                            <real value="1" />
+                            <real value="0" />
+		        		</values>
+                    </animation>
+                </animations>
+            </CALayer>
+			<CALayer id="#3" bounds="0 0 40 40" position="0 0">
+				<contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/ringer_off.png"/>
+			</CALayer>
+		</sublayers>
+		<states>
+			<LKState name="silent">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="hidden">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="hidden">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#3" keyPath="opacity">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+			<LKState name="ringer">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="hidden">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="hidden">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#3" keyPath="opacity">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+		</states>
+		<stateTransitions>
+			<LKStateTransition fromState="ringer" toState="silent">
+				<elements>
+					<LKStateTransitionElement key="hidden" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="silent" toState="ringer">
+				<elements>
+					<LKStateTransitionElement key="hidden" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="hidden" duration="1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="ringer" toState="silent">
+				<elements>
+					<LKStateTransitionElement key="hidden" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="hidden" duration="1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="silent" toState="ringer">
+				<elements>
+					<LKStateTransitionElement key="hidden" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="hidden" duration="1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+		</stateTransitions>
+		<animations />
+	</CALayer>
+</caml>

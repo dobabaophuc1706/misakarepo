@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<caml xmlns="http://www.apple.com/CoreAnimation/1.0">
+	<CALayer position="-0.5 0">
+		<sublayers>
+			<CALayer id="#1" bounds="0 0 40 40" position="0 0">
+				<contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/dark.png"/>
+			</CALayer>
+			<CALayer id="#2" bounds="0 0 40 40" position="0 0">
+				<contents type="CGImage"
+					src="/var/mobile/Documents/PhucDo/PhucDoUI/light.png"/>
+			</CALayer>
+		</sublayers>
+		<states>
+			<LKState name="light">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="opacity">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#1" keyPath="transform.rotation.z">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+			<LKState name="dark">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="integer" value="0"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="opacity">
+						<value type="integer" value="1"/>
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="transform.rotation.z">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+		</states>
+		<stateTransitions>
+			<LKStateTransition fromState="*" toState="light">
+				<elements>
+					<LKStateTransitionElement key="transform.rotation.z" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="transform.rotation.z"
+							duration="3" fillMode="backwards" repeatCount="Inf">
+							<fromValue type="integer" value="0" />
+							<toValue type="real" value="-6.283185482025" />
+						</animation>
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="light" toState="*">
+				<elements>
+					<LKStateTransitionElement key="transform" targetId="#1">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="transform" targetId="#2">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="*" toState="dark">
+				<elements>
+					<LKStateTransitionElement key="transform.rotation.z" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="transform.rotation.z"
+							duration="3" fillMode="backwards" repeatCount="Inf">
+							<fromValue type="integer" value="0" />
+							<toValue type="real" value="-6.283185482025" />
+						</animation>
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="dark" toState="*">
+				<elements>
+					<LKStateTransitionElement key="transform" targetId="#1">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="transform" targetId="#2">
+						<animation type="CASpringAnimation" keyPath="transform" duration="1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.1" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+		</stateTransitions>
+		<animations />
+	</CALayer>
+</caml>

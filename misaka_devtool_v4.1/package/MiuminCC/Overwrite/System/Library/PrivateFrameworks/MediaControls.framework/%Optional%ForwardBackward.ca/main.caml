@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<caml xmlns="http://www.apple.com/CoreAnimation/1.0">
+  <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 84 84" clearsContext="1" contentsFormat="RGBA8" contentsRect="0.5 0.4736842105263 1 1" hidden="0" masksToBounds="0" name="Root Layer" opaque="0" position="42 42">
+    <backgroundColor opacity="0" value="0 0 0"/>
+    <sublayers>
+      <CALayer id="origin" allowsEdgeAntialiasing="1" allowsGroupOpacity="0" bounds="0 0 0 0" contentsFormat="RGBA8" hidden="0" name="origin" position="42 42" transform="scale(0.28, 0.28, 1)">
+    <sublayers>
+      <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 0 0" contentsFormat="RGBA8" hidden="0" name="controlParent" position="0 0">
+        <sublayers>
+          <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 0 0" contentsFormat="RGBA8" hidden="0" name="symbolorigin" position="0 0">
+        <sublayers>
+          <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 0 0" contentsFormat="RGBA8" hidden="0" name="shapeparent" position="0 0">
+            <sublayers>
+              <CALayer id="#4" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 0 0" contentsFormat="RGBA8" hidden="0" name="ffwd0 shape" opacity="1" position="-26 0" transform="">
+            <sublayers>
+              <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 47.9 55.04" contentsFormat="RGBA8" name="arrow" position="4 0">
+                <sublayers>
+                  <CAShapeLayer id="arrow0-tint-shape" fillColor="0.78 0.78 0.78" path="16 5 m 16 5.5 15 6 13.7 6 c 12.5 6 10.4 6.8 9 7.7 c 7.6 8.7 5.3 10.8 3.7 12.5 c 2.2 14.1 1 15.9 0.9 16.5 c 0.9 17.1 0.6 18.8 0.2 20.5 c -0.1 22.1 -0.4 35.9 -0.4 51 c -0.4 66.1 -0.2 79.6 0.1 81 c 0.3 82.4 1.7 85.3 3.1 87.5 c 4.6 89.7 7.6 92.5 9.9 93.8 c 13.2 95.6 15.6 96 22 96 c 29.3 96 30.4 95.7 35.3 92.7 c 38.1 90.8 41.2 89 42 88.7 c 42.8 88.3 45.7 86.6 48.5 85 c 51.2 83.3 54.4 81.5 55.5 81 c 56.6 80.4 58.8 79.1 60.5 78.1 c 62.2 77 65.2 75.2 67.2 74.1 c 69.3 72.9 71.5 72 72 72 c 72.5 72 73 72.7 73 73.5 c 73 74.3 73.8 76.2 74.7 77.6 c 75.7 79 77.8 81.1 79.5 82.1 c 81.5 83.3 84.4 83.9 88 83.9 c 92.1 83.9 94.8 83.2 98.5 81.3 c 101.2 79.8 105.4 77.3 107.8 75.8 c 110.1 74.3 112.2 73 112.5 73 c 112.8 73 116 71.1 119.7 68.9 c 123.5 66.6 127.3 64 128.4 63.1 c 129.4 62.2 131.1 59.6 132.1 57.3 c 133.2 54.9 134 52.1 134 51 c 134 49.9 133.1 47 132 44.5 c 130.8 41.8 128.5 39 126.2 37.4 c 124.2 36 116.4 31.3 109 26.9 c 101.6 22.5 94.9 19 94.2 19 c 93.6 19 92.8 18.6 92.5 18 c 92.2 17.4 90.4 17 88.5 17 c 86.6 17 83.3 17.9 81.2 19.1 c 79.2 20.2 76.5 22.3 75.3 23.8 c 74 25.3 73 27.3 73 28.2 c 73 29.2 72.8 30 72.5 30 c 72.2 30 70.3 29 68.2 27.9 c 66.2 26.7 61.6 24.1 58 22 c 54.4 20 47.1 15.8 41.7 12.7 c 36.4 9.6 30.9 6.8 29.5 6.5 c 28.1 6.2 27 5.6 27 5 c 27 4.5 24.5 4 21.5 4 c 18.5 4 16 4.5 16 5 c h" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 47.9 55.04" contentsFormat="RGBA8" name="arrow0-tint-shape" position="30 12" opacity="0.35">
+                <strokeColor opacity="0" value="0 0 0"/>
+                  </CAShapeLayer>
+                </sublayers>
+              </CALayer>
+            </sublayers>
+              </CALayer>
+              <CALayer id="#3" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 0 0" contentsFormat="RGBA8" hidden="0" name="ffwd1 shape" opacity="1" position="20 0" transform="">
+            <sublayers>
+              <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 47.9 55.04" contentsFormat="RGBA8" name="arrow" position="4 0">
+                <sublayers>
+                  <CAShapeLayer id="arrow1-tint-shape" fillColor="1 1 1" path="16.5 21.4 m 14.6 22.8 14.5 24.3 14.2 49.7 c 13.9 75.5 14 76.6 15.9 79.3 c 17.1 80.8 18.9 82 20 82 c 21.1 82 23.2 81.4 24.8 80.8 c 26.3 80.1 30.2 77.9 33.5 76 c 36.8 74 40.2 72 41 71.6 c 41.8 71.2 43.4 70.4 44.5 69.7 c 45.6 69 50.4 66.3 55 63.6 c 59.7 60.9 64.7 57.5 66.3 56.1 c 68 54.5 69 52.5 69 50.7 c 69 49.2 68 47 66.6 45.7 c 65.3 44.5 58.9 40.4 52.4 36.5 c 45.9 32.6 39.8 29 38.8 28.5 c 37.9 27.9 35.2 26.4 32.8 25.1 c 30.4 23.8 27.4 22.1 26 21.4 c 24.6 20.6 22.4 20 21 20 c 19.6 20 17.6 20.6 16.5 21.4 c h 84.2 30.2 m 83.7 31 83.3 39.8 83.4 51.3 c 83.5 69 83.7 71.3 85.3 72.8 c 87 74.4 87.4 74.3 92.3 71.8 c 95.2 70.3 102.6 66.1 108.9 62.3 c 115.2 58.6 120.9 54.6 121.6 53.5 c 122.7 51.9 122.7 51 121.7 49.1 c 121 47.8 115.5 43.7 109 39.8 c 102.7 36.1 97.3 33 97 33 c 96.7 33 95.4 32.1 94 31 c 92.6 29.9 90.1 29 88.4 29 c 86.6 29 84.8 29.6 84.2 30.2 c h" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 47.9 55.04" contentsFormat="RGBA8" name="arrow1-tint-shape" position="-10 12">
+                <strokeColor opacity="0" value="0 0 0"/>
+                  </CAShapeLayer>
+                </sublayers>
+              </CALayer>
+            </sublayers>
+              </CALayer>
+            </sublayers>
+          </CALayer>
+        </sublayers>
+          </CALayer>
+        </sublayers>
+      </CALayer>
+      <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 260 260" contentsFormat="RGBA8" name="ffwdHit" position="0 0"/>
+    </sublayers>
+    <scriptComponents/>
+      </CALayer>
+    </sublayers>
+  </CALayer>
+</caml>

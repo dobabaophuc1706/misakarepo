@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<caml xmlns="http://www.apple.com/CoreAnimation/1.0">
+	<CATransformLayer>
+		<sublayers>
+			<CATransformLayer id="#2" name="bt-dark" opacity="1">
+				<sublayers>
+					<CALayer id="#1" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 33 33" contentsFormat="RGBA8" name="bluetooth" opacity="1" position="0.4 -0.5">
+						<contents type="CGImage" src="/var/mobile/Documents/PhucDo/PhucDoUI/bluetooth_black.png"/>
+					</CALayer>
+				</sublayers>
+			</CATransformLayer>
+			<CATransformLayer id="#4" name="bt-light" opacity="0">
+				<sublayers>
+					<CALayer id="#6" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 33 33" contentsFormat="RGBA8" name="bluetooth" opacity="1" position="0.4 -0.5">
+						<contents type="CGImage" src="/var/mobile/Documents/PhucDo/PhucDoUI/bluetooth_white.png"/>
+					</CALayer>
+					<CALayer id="#5" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 33 33" contentsFormat="RGBA8" name="bluetoothdisabled" opacity="0" position="0.4 -0.5">
+						<contents type="CGImage" src="/var/mobile/Documents/PhucDo/PhucDoUI/bluetooth_white.png"/>
+					</CALayer>
+				</sublayers>
+			</CATransformLayer>
+		</sublayers>
+		<states>
+			<LKState name="disconnected" />
+			<LKState name="poweron" basedOn="">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="real" value="0.1000000014901" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="opacity">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#3" keyPath="opacity">
+						<value type="integer" value="1" />
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+			<LKState name="associated" basedOn="">
+				<elements>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="integer" value="1" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#3" keyPath="opacity">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#4" keyPath="opacity">
+						<value type="integer" value="1" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#2" keyPath="opacity">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+			<LKState name="poweroff">
+				<elements>
+					<LKStateSetValue targetId="#5" keyPath="opacity">
+						<value type="integer" value="1" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#1" keyPath="opacity">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#4" keyPath="opacity">
+						<value type="integer" value="1" />
+					</LKStateSetValue>
+					<LKStateSetValue targetId="#6" keyPath="opacity">
+						<value type="integer" value="0" />
+					</LKStateSetValue>
+				</elements>
+			</LKState>
+		</states>
+		<stateTransitions>
+			<LKStateTransition fromState="*" toState="poweron">
+				<elements>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CAKeyframeAnimation" calculationMode="linear"
+							keyPath="opacity" autoreverses="1" beginTime="1e-100"
+							duration="0.6000000238419" fillMode="both" removedOnCompletion="1"
+							repeatCount="3" timingFunction="easeInEaseOut">
+							<keyTimes>
+								<integer value="0" />
+								<integer value="1" />
+							</keyTimes>
+							<values>
+								<real value="0.25" />
+								<integer value="1" />
+							</values>
+						</animation>
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							beginTime="3.181189706089" duration="0.406356349318"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							beginTime="3.366952608635" duration="0.6153396146815"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="poweron" toState="*">
+				<elements>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="*" toState="associated">
+				<elements>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							duration="0.4895193556768" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#4">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							duration="0.3831359864998" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="associated" toState="*">
+				<elements>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							duration="0.5533697064173" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#3">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#4">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#2">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="*" toState="poweroff">
+				<elements>
+					<LKStateTransitionElement key="opacity" targetId="#5">
+						<animation type="CABasicAnimation" keyPath="opacity" beginTime="0"
+							duration="0.2670341724089" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" beginTime="0"
+							duration="0.2670341724089" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#4">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							duration="0.2670341724089" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#6">
+						<animation type="CABasicAnimation" keyPath="opacity"
+							duration="0.2670341724089" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+			<LKStateTransition fromState="poweroff" toState="*">
+				<elements>
+					<LKStateTransitionElement key="opacity" targetId="#5">
+						<animation type="CABasicAnimation" keyPath="opacity" beginTime="0.08"
+							duration="0.155" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#1">
+						<animation type="CABasicAnimation" keyPath="opacity" beginTime="0.08"
+							duration="0.155" fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#4">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+					<LKStateTransitionElement key="opacity" targetId="#6">
+						<animation type="CABasicAnimation" keyPath="opacity" duration="0.25"
+							fillMode="backwards" timingFunction="default" />
+					</LKStateTransitionElement>
+				</elements>
+			</LKStateTransition>
+		</stateTransitions>
+	</CATransformLayer>
+</caml>
