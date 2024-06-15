@@ -26,6 +26,8 @@ pip install -r ./misaka_devtool_v4.1/requirements.txt
 
 ![Screenshot of Misaka DevTool.](https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/assets/images/devtool.png)
 
+Thanks to [@straight_tamago](https://twitter.com/straight_tamago)
+
 [Watch Youtube GUI](https://www.youtube.com/watch?v=cxc4QAbsQEM&t=9s)
 =============
 
